@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Load the data
-df = pd.read_csv('card_sales_data.csv')
+df = pd.read_csv('data/ProfessorSteg Sales Report - ProfessorSteg Sales Report.csv')
 
 # Display the first few rows to understand the structure
 print(df.head())
