@@ -14,6 +14,7 @@ This ongoing project visualizes my personal trading card game (TCG) sales data t
 3. Run the dashboard (if using Streamlit):
 
 ## 📊 Example Visualizations
+- Coming Soon
 
 ## 📩 Contact
 If you have questions, reach out on GitHub!
