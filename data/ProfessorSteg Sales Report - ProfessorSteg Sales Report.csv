@@ -1,0 +1,902 @@
+Day of Seller Ordered At (ET),Order Number,Seller Name,Product Type,Product Line,Set Name,Item Condition,Product Name,TOTAL PRODUCT COUNT,Item Unit Price (USD),Shipping*,Net Sales*,Net Revenue*,Refunded*,Commission Fees*,Program Fees*,Processing Fees*,Total Fees*
+10/21/22,97045F35-10316A-84E70,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Asceticism,1,$6.99,$0.99,$7.98,$6.65,$0.00,$0.82,$0.00,$0.51,$1.33
+10/22/22,97045F35-D3FD96-90A5D,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Underground River,1,$7.99,$0.99,$8.98,$7.51,$0.00,$0.92,$0.00,$0.55,$1.47
+10/23/22,97045F35-1D5A9A-96736,ProfessorSteg,Cards,Magic,Eventide,Near Mint,Ward of Bones,1,$9.00,$0.99,$9.99,$8.40,$0.00,$1.02,$0.00,$0.57,$1.59
+10/25/22,97045F35-16C3DB-A6BF9,ProfessorSteg,Cards,Magic,Morningtide,Near Mint,Scapeshift,1,$20.00,$0.99,$0.00,$0.00,$20.99,$2.15,$0.00,$0.82,$0.00
+10/25/22,97045F35-59E7BB-00C31,ProfessorSteg,Cards,YuGiOh,Starter Deck: Joey,Near Mint Unlimited,Red-Eyes B. Dragon,1,$7.99,$0.99,$8.98,$7.52,$0.00,$0.92,$0.00,$0.54,$1.46
+10/27/22,97045F35-6353EB-ACDD2,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Sliver Overlord,1,$32.99,$0.99,$33.98,$29.29,$0.00,$3.48,$0.00,$1.21,$4.69
+10/27/22,97045F35-B14785-88173,ProfessorSteg,Cards,Magic,Mirrodin,Near Mint,Isochron Scepter,2,$9.60,$0.99,$20.19,$17.27,$0.00,$2.07,$0.00,$0.85,$2.92
+10/27/22,97045F35-C4DE07-BC2D6,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Treasure Vault,1,$4.00,$0.99,$4.99,$4.04,$0.00,$0.51,$0.00,$0.44,$0.95
+11/01/22,97045F35-EED5E8-D6FB8,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Blue-Eyes White Dragon,2,$28.99,$0.99,$58.97,$51.05,$0.00,$6.04,$0.00,$1.88,$7.92
+11/03/22,97045F35-66F8B8-9F646,ProfessorSteg,Cards,Magic,Duel Decks: Phyrexia vs. the Coalition,Near Mint,Phyrexian Processor,1,$1.48,$0.99,$2.47,$1.85,$0.00,$0.25,$0.00,$0.37,$0.62
+11/07/22,97045F35-F70531-297C0,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Taurean Mauler,1,$0.20,$0.99,$1.19,$0.74,$0.00,$0.12,$0.00,$0.33,$0.45
+11/09/22,97045F35-8DF168-25EAC,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Relinquished,1,$0.50,$0.99,$1.49,$1.00,$0.00,$0.15,$0.00,$0.34,$0.49
+11/10/22,97045F35-4C212C-63453,ProfessorSteg,Cards,Magic,Dissension,Near Mint,Experiment Kraj,1,$1.99,$0.99,$2.98,$2.30,$0.00,$0.30,$0.00,$0.38,$0.68
+11/14/22,97045F35-7EC87F-582B5,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Relinquished,1,$0.60,$0.99,$1.59,$1.09,$0.00,$0.16,$0.00,$0.34,$0.50
+11/16/22,97045F35-04C97A-918BD,ProfessorSteg,Cards,Magic,Eventide,Near Mint,Gift of the Deity,1,$0.05,$0.99,$1.04,$0.60,$0.00,$0.11,$0.00,$0.33,$0.44
+11/16/22,97045F35-A97157-65E20,ProfessorSteg,Cards,Magic,Shadowmoor,Near Mint,Faerie Macabre,1,$0.65,$0.99,$14.64,$12.45,$0.00,$1.50,$0.00,$0.69,$2.19
+11/16/22,97045F35-A97157-65E20,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Underworld Breach,2,$6.50,0,0,0,0,0,0,0,0
+11/17/22,97045F35-14D698-7240D,ProfessorSteg,Cards,Magic,Alara Reborn,Near Mint,Terminate,2,$0.24,$0.99,$1.47,$0.98,$0.00,$0.15,$0.00,$0.34,$0.49
+11/18/22,97045F35-3E97FE-2B242,ProfessorSteg,Cards,Magic,Worldwake,Near Mint,Arbor Elf,1,$0.20,$0.99,$1.19,$0.74,$0.00,$0.12,$0.00,$0.33,$0.45
+11/19/22,97045F35-2C9B63-23F7E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Moon-Blessed Cleric,1,$0.74,$0.99,0,$2.03,$0.00,$0.27,$0.00,$0.37,$0.64
+11/19/22,97045F35-2C9B63-23F7E,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Go-Shintai of Shared Purpose,1,$0.05,0,0,0,0,0,0,0,0
+11/19/22,97045F35-2C9B63-23F7E,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Shrine Steward,1,$0.01,0,0,0,0,0,0,0,0
+11/19/22,97045F35-2C9B63-23F7E,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Archon of Sun's Grace,1,$0.75,0,$2.67,0,0,0,0,0,0
+11/19/22,97045F35-2C9B63-23F7E,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Nessian Wanderer,1,$0.13,0,0,0,0,0,0,0,0
+11/19/22,97045F35-7FADF1-676E8,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Replication Specialist,1,$0.01,$0.99,$1.00,$0.57,$0.00,$0.10,$0.00,$0.33,$0.43
+11/19/22,97045F35-8A04AD-DEEE7,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Fabricate,1,$3.50,$0.99,$4.49,$3.61,$0.00,$0.46,$0.00,$0.42,$0.88
+11/19/22,97045F35-9F432D-B9EAB,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Reanimate,1,$6.99,$0.99,$7.98,$6.65,$0.00,$0.82,$0.00,$0.51,$1.33
+11/19/22,97045F35-81CBF1-BBA57,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,The Tarrasque,1,$0.85,$0.99,$1.84,,$0.00,$0.00,$0.00,$0.00,
+11/19/22,97045F35-36950D-83B50,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,The Tarrasque,1,$0.85,$0.99,$1.84,$1.30,$0.00,$0.19,$0.00,$0.35,$0.54
+11/19/22,97045F35-942255-38784,ProfessorSteg,Cards,Magic,Fifth Dawn,Near Mint,Mycosynth Golem,1,$17.71,$0.99,$18.70,$15.97,$0.00,$1.92,$0.00,$0.81,$2.73
+11/19/22,97045F35-F50F35-C0BF6,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Circle of Dreams Druid,1,$3.49,$0.99,$4.48,$3.60,$0.00,$0.46,$0.00,$0.42,$0.88
+11/20/22,97045F35-1F41ED-BFDE4,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Unexpected Windfall,1,$0.44,$0.99,0,$1.06,$0.00,$0.16,$0.00,$0.34,$0.50
+11/20/22,97045F35-1F41ED-BFDE4,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Boros Cluestone,1,$0.03,0,$1.56,0,0,0,0,0,0
+11/20/22,97045F35-1F41ED-BFDE4,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Return to Dust,1,$0.10,0,0,0,0,0,0,0,0
+11/20/22,97045F35-6CD5E1-2F501,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Mountain,7,$0.35,$0.99,$3.44,$2.70,$0.00,$0.35,$0.00,$0.39,$0.74
+11/20/22,97045F35-27A183-C6E58,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Soul Warden,1,$0.84,$0.99,$1.83,$1.29,$0.00,$0.19,$0.00,$0.35,$0.54
+11/20/22,97045F35-5029EB-CACAB,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Darksteel Forge,1,$19.00,$0.99,$19.99,$17.11,$0.00,$2.05,$0.00,$0.83,$2.88
+11/20/22,97045F35-A9FFB0-950DE,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Deadly Dispute,1,$0.90,$0.99,$3.57,$2.81,$0.00,$0.36,$0.00,$0.40,$0.76
+11/20/22,97045F35-A9FFB0-950DE,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Prosperous Innkeeper,1,$0.94,0,0,0,0,0,0,0,0
+11/20/22,97045F35-A9FFB0-950DE,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Skullport Merchant,1,$0.05,0,0,0,0,0,0,0,0
+11/20/22,97045F35-A9FFB0-950DE,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Unexpected Windfall,1,$0.44,0,0,0,0,0,0,0,0
+11/20/22,97045F35-A9FFB0-950DE,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Harrow,1,$0.25,0,0,0,0,0,0,0,0
+11/21/22,97045F35-1F712E-FF874,ProfessorSteg,Cards,Magic,7th Edition,Near Mint,Caltrops,1,$0.82,$0.99,$1.81,$1.28,$0.00,$0.18,$0.00,$0.35,$0.53
+11/21/22,97045F35-8EFC41-1F11E,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Archon of Emeria,1,$1.20,$0.99,$2.19,$1.61,$0.00,$0.22,$0.00,$0.36,$0.58
+11/21/22,97045F35-FB84F5-C55EA,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Homing Sliver,1,$0.10,$0.99,0,$0.95,$0.00,$0.15,$0.00,$0.34,$0.49
+11/21/22,97045F35-FB84F5-C55EA,ProfessorSteg,Cards,Magic,Planar Chaos,Near Mint,Battering Sliver,1,$0.10,0,$1.44,0,0,0,0,0,0
+11/21/22,97045F35-FB84F5-C55EA,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Harrow,1,$0.25,0,0,0,0,0,0,0,0
+11/22/22,97045F35-3B85A4-10502,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Cleric Class,1,$1.29,$0.99,$3.72,$2.94,$0.00,$0.38,$0.00,$0.40,$0.78
+11/22/22,97045F35-3B85A4-10502,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Soul Warden,1,$0.84,0,0,0,0,0,0,0,0
+11/22/22,97045F35-3B85A4-10502,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,"Daxos, Blessed by the Sun",1,$0.30,0,0,0,0,0,0,0,0
+11/22/22,97045F35-3B85A4-10502,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Reverent Hoplite,1,$0.20,0,0,0,0,0,0,0,0
+11/22/22,97045F35-3B85A4-10502,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Return to Dust,1,$0.10,0,0,0,0,0,0,0,0
+11/22/22,97045F35-6F0201-05E63,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Breath of Darigaaz,1,$0.10,$0.99,$1.44,$0.96,$0.00,$0.15,$0.00,$0.33,$0.48
+11/22/22,97045F35-6F0201-05E63,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Snake Umbra,1,$0.25,0,0,0,0,0,0,0,0
+11/22/22,97045F35-6F0201-05E63,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Mold Shambler,1,$0.10,0,0,0,0,0,0,0,0
+11/22/22,97045F35-63B6DF-B8705,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Clattering Skeletons (Showcase),1,$0.01,$0.99,$1.15,$0.70,$0.00,$0.12,$0.00,$0.33,$0.45
+11/22/22,97045F35-63B6DF-B8705,ProfessorSteg,Cards,Magic,Timeshifted,Near Mint,Serrated Arrows,1,$0.15,0,0,0,0,0,0,0,0
+11/22/22,97045F35-C2A327-BC3A1,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Fires of Yavimaya,1,$0.65,$0.99,$1.64,$1.13,$0.00,$0.17,$0.00,$0.34,$0.51
+11/23/22,97045F35-3B0B7D-3A4CA,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Primal Rage,1,$2.50,$0.99,$4.37,$3.50,$0.00,$0.45,$0.00,$0.42,$0.87
+11/23/22,97045F35-3B0B7D-3A4CA,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Sire of Insanity,1,$0.35,0,0,0,0,0,0,0,0
+11/23/22,97045F35-3B0B7D-3A4CA,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Thornweald Archer,1,$0.08,0,0,0,0,0,0,0,0
+11/23/22,97045F35-3B0B7D-3A4CA,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Underworld Dreams,1,$0.45,0,0,0,0,0,0,0,0
+11/23/22,97045F35-6A400F-F1F47,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Enthusiastic Mechanaut,1,$0.12,$0.99,$1.28,$0.82,$0.00,$0.13,$0.00,$0.33,$0.46
+11/23/22,97045F35-6A400F-F1F47,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Lone Missionary,1,$0.15,0,0,0,0,0,0,0,0
+11/23/22,97045F35-6A400F-F1F47,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Lagonna-Band Storyteller,1,$0.02,0,0,0,0,0,0,0,0
+11/23/22,97045F35-B591F3-24099,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Feign Death,3,$0.18,$0.99,$1.53,$1.03,$0.00,$0.16,$0.00,$0.34,$0.50
+11/23/22,97045F35-F54399-487B6,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Thornweald Archer,1,$0.08,$0.99,$1.07,$0.63,$0.00,$0.11,$0.00,$0.33,$0.44
+11/24/22,97045F35-9845F2-97045,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Thornweald Archer,1,$0.08,$0.99,$1.07,$0.63,$0.00,$0.11,$0.00,$0.33,$0.44
+11/24/22,97045F35-E0FA3B-FD096,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Scaled Herbalist,1,$0.02,$0.99,0,$3.81,$0.00,$0.48,$0.00,$0.42,$0.90
+11/24/22,97045F35-E0FA3B-FD096,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Forest,5,$0.74,0,$4.71,0,0,0,0,0,0
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Brazen Dwarf,1,$0.01,$0.99,$1.18,$0.73,$0.00,$0.12,$0.00,$0.33,$0.45
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Chaos Channeler,1,$0.01,0,0,0,0,0,0,0,0
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Contact Other Plane,1,$0.01,0,0,0,0,0,0,0,0
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Earth-Cult Elemental,1,$0.01,0,0,0,0,0,0,0,0
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,"Farideh, Devil's Chosen",1,$0.01,0,0,0,0,0,0,0,0
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Goblin Morningstar,1,$0.04,0,0,0,0,0,0,0,0
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Hoarding Ogre,1,$0.01,0,0,0,0,0,0,0,0
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Lightfoot Rogue,1,$0.07,0,0,0,0,0,0,0,0
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Pixie Guide,1,$0.01,0,0,0,0,0,0,0,0
+11/25/22,97045F35-1EC52B-0095E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Swarming Goblins,1,$0.01,0,0,0,0,0,0,0,0
+11/25/22,97045F35-BDB55E-E31CD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Hoarding Ogre,1,$0.01,$0.99,$1.01,$0.58,$0.00,$0.10,$0.00,$0.33,$0.43
+11/25/22,97045F35-BDB55E-E31CD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Pixie Guide,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-2DC786-9DFB2,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Deadly Dispute,1,$0.90,$0.99,0,,$0.00,$0.00,$0.00,$0.00,
+11/26/22,97045F35-2DC786-9DFB2,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Azusa's Many Journeys,1,$0.01,0,$2.02,0,0,0,0,0,0
+11/26/22,97045F35-2DC786-9DFB2,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Boseiju Reaches Skyward,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-2DC786-9DFB2,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Michiko's Reign of Truth,1,$0.02,0,0,0,0,0,0,0,0
+11/26/22,97045F35-2DC786-9DFB2,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,The Birth of Meletis,1,$0.09,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Arcane Investigator,1,$0.01,$0.99,$1.72,$1.20,$0.00,$0.17,$0.00,$0.35,$0.52
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Brazen Dwarf,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Contact Other Plane,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Earth-Cult Elemental,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,"Farideh, Devil's Chosen",1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Farideh's Fireball,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Goblin Morningstar,1,$0.04,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Hoarding Ogre,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Pixie Guide (Showcase),1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Spiked Pit Trap,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Swarming Goblins,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Unexpected Windfall,1,$0.44,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Find Some Prisoners,1,$0.10,0,0,0,0,0,0,0,0
+11/26/22,97045F35-C2AC8C-FA5AD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Find the Villains' Lair,1,$0.05,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Arcane Investigator,1,$0.01,$0.99,$1.72,,$0.00,$0.00,$0.00,$0.00,
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Brazen Dwarf,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Contact Other Plane,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Earth-Cult Elemental,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,"Farideh, Devil's Chosen",1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Farideh's Fireball,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Goblin Morningstar,1,$0.04,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Hoarding Ogre,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Pixie Guide (Showcase),1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Spiked Pit Trap,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Swarming Goblins,1,$0.01,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Unexpected Windfall,1,$0.44,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Find Some Prisoners,1,$0.10,0,0,0,0,0,0,0,0
+11/26/22,97045F35-E6D763-431E1,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Find the Villains' Lair,1,$0.05,0,0,0,0,0,0,0,0
+11/27/22,97045F35-1A2267-149AD,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Gold Myr,1,$0.25,$0.99,$2.33,$1.73,$0.00,$0.24,$0.00,$0.36,$0.60
+11/27/22,97045F35-1A2267-149AD,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Leaden Myr,1,$0.72,0,0,0,0,0,0,0,0
+11/27/22,97045F35-1A2267-149AD,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Silver Myr,1,$0.37,0,0,0,0,0,0,0,0
+11/27/22,97045F35-6FBD64-B79E5,ProfessorSteg,Cards,Magic,Alara Reborn,Near Mint,Wall of Denial,1,$1.20,$0.99,$2.30,$1.71,$0.00,$0.23,$0.00,$0.36,$0.59
+11/27/22,97045F35-6FBD64-B79E5,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Wall of Frost,1,$0.11,0,0,0,0,0,0,0,0
+11/28/22,97045F35-5F246D-3D5F4,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Azusa's Many Journeys,1,$0.01,$0.99,$3.07,$2.38,$0.00,$0.31,$0.00,$0.38,$0.69
+11/28/22,97045F35-5F246D-3D5F4,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Boseiju Reaches Skyward,1,$0.01,0,0,0,0,0,0,0,0
+11/28/22,97045F35-5F246D-3D5F4,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Michiko's Reign of Truth,1,$0.02,0,0,0,0,0,0,0,0
+11/28/22,97045F35-5F246D-3D5F4,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint Foil,Tamiyo's Safekeeping,1,$1.50,0,0,0,0,0,0,0,0
+11/28/22,97045F35-5F246D-3D5F4,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,The Birth of Meletis,1,$0.09,0,0,0,0,0,0,0,0
+11/28/22,97045F35-5F246D-3D5F4,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Krosan Grip,1,$0.45,0,0,0,0,0,0,0,0
+11/28/22,97045F35-8BF785-7172D,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Zhur-Taa Druid,1,$0.10,$0.99,0,$1.34,$0.00,$0.19,$0.00,$0.35,$0.54
+11/28/22,97045F35-8BF785-7172D,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Ilysian Caryatid,1,$0.19,0,0,0,0,0,0,0,0
+11/28/22,97045F35-8BF785-7172D,ProfessorSteg,Cards,Magic,Worldwake,Near Mint,Canopy Cover,1,$0.60,0,$1.88,0,0,0,0,0,0
+11/28/22,97045F35-13BD78-B8423,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Burst of Speed,1,$0.10,$0.99,$1.28,$0.82,$0.00,$0.13,$0.00,$0.33,$0.46
+11/28/22,97045F35-13BD78-B8423,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Grapeshot,1,$0.19,0,0,0,0,0,0,0,0
+11/29/22,97045F35-AED565-85A84,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Deadly Dispute,1,$0.90,$0.99,$2.04,$1.48,$0.00,$0.21,$0.00,$0.35,$0.56
+11/29/22,97045F35-AED565-85A84,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Shambling Ghast,1,$0.15,0,0,0,0,0,0,0,0
+11/30/22,97045F35-1A6695-F40DB,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Come to a River,4,$0.01,$0.99,$1.45,$0.96,$0.00,$0.15,$0.00,$0.34,$0.49
+11/30/22,97045F35-1A6695-F40DB,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Come to the Gnoll Camp,3,$0.01,0,0,0,0,0,0,0,0
+11/30/22,97045F35-1A6695-F40DB,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Find the Villains' Lair,2,$0.05,0,0,0,0,0,0,0,0
+11/30/22,97045F35-1A6695-F40DB,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Happen On a Glade,1,$0.09,0,0,0,0,0,0,0,0
+11/30/22,97045F35-1A6695-F40DB,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Hear Something on Watch,4,$0.01,0,0,0,0,0,0,0,0
+11/30/22,97045F35-1A6695-F40DB,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You See a Guard Approach,3,$0.01,0,0,0,0,0,0,0,0
+11/30/22,97045F35-1A6695-F40DB,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You See a Pair of Goblins,1,$0.09,0,0,0,0,0,0,0,0
+11/30/22,97045F35-1A6695-F40DB,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You're Ambushed on the Road,4,$0.01,0,0,0,0,0,0,0,0
+12/02/22,97045F35-171377-A258A,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Cave of the Frost Dragon (Dungeon Module),1,$0.50,$0.99,$4.41,$3.54,$0.00,$0.45,$0.00,$0.42,$0.87
+12/02/22,97045F35-171377-A258A,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Hall of Storm Giants (Dungeon Module),1,$2.92,0,0,0,0,0,0,0,0
+12/03/22,97045F35-9208B7-90D1A,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Gruul Signet,1,$0.50,$0.99,$1.51,$1.02,$0.00,$0.15,$0.00,$0.34,$0.49
+12/03/22,97045F35-9208B7-90D1A,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Simian Sling,1,$0.02,0,0,0,0,0,0,0,0
+12/03/22,97045F35-826977-9EECE,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Owlbear,1,$0.01,$0.99,0,,$0.00,$0.00,$0.00,$0.00,
+12/03/22,97045F35-826977-9EECE,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,You Meet in a Tavern,1,$0.01,0,0,0,0,0,0,0,0
+12/03/22,97045F35-826977-9EECE,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Gruul Signet,1,$0.50,0,$2.16,0,0,0,0,0,0
+12/03/22,97045F35-826977-9EECE,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Iron Apprentice,1,$0.01,0,0,0,0,0,0,0,0
+12/03/22,97045F35-826977-9EECE,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Master's Rebuke,1,$0.07,0,0,0,0,0,0,0,0
+12/03/22,97045F35-826977-9EECE,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,You Are Already Dead,1,$0.02,0,0,0,0,0,0,0,0
+12/03/22,97045F35-826977-9EECE,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Sign in Blood,1,$0.25,0,0,0,0,0,0,0,0
+12/03/22,97045F35-826977-9EECE,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Ulamog's Crusher,1,$0.20,0,0,0,0,0,0,0,0
+12/03/22,97045F35-826977-9EECE,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,River Boa,1,$0.10,0,0,0,0,0,0,0,0
+12/03/22,97045F35-F7785D-B5F31,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Brazen Dwarf,1,$0.01,$0.99,$1.27,$0.81,$0.00,$0.13,$0.00,$0.33,$0.46
+12/03/22,97045F35-F7785D-B5F31,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Contact Other Plane,1,$0.01,0,0,0,0,0,0,0,0
+12/03/22,97045F35-F7785D-B5F31,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Earth-Cult Elemental,1,$0.01,0,0,0,0,0,0,0,0
+12/03/22,97045F35-F7785D-B5F31,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Swarming Goblins,1,$0.01,0,0,0,0,0,0,0,0
+12/03/22,97045F35-F7785D-B5F31,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Wizard's Spellbook,1,$0.24,0,0,0,0,0,0,0,0
+12/04/22,97045F35-3FF407-C6882,ProfessorSteg,Cards,YuGiOh,Shonen Jump Magazine Promos,Near Mint Unlimited,Red-Eyes B. Dragon (JMP-002),1,$6.30,$0.99,$7.29,$6.05,$0.00,$0.75,$0.00,$0.49,$1.24
+12/04/22,97045F35-6FFB49-95F34,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Harrow,1,$0.25,$0.99,$1.24,,$0.00,$0.00,$0.00,$0.00,
+12/04/22,97045F35-9AE085-A8CCE,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Gruul Signet,1,$0.50,$0.99,$1.54,$1.04,$0.00,$0.16,$0.00,$0.34,$0.50
+12/04/22,97045F35-9AE085-A8CCE,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Wake the Reflections,1,$0.05,0,0,0,0,0,0,0,0
+12/04/22,97045F35-45D3E3-4C83F,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Harrow,1,$0.25,$0.99,$1.24,,$0.00,$0.00,$0.00,$0.00,
+12/04/22,97045F35-A79B25-5F8FE,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Harrow,1,$0.25,$0.99,$1.24,,$0.00,$0.00,$0.00,$0.00,
+12/05/22,97045F35-0ACDEA-2E9B3,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,"Zariel, Archduke of Avernus",1,$2.15,$0.99,0,$2.56,$0.00,$0.33,$0.00,$0.38,$0.71
+12/05/22,97045F35-0ACDEA-2E9B3,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Showstopper,1,$0.04,0,0,0,0,0,0,0,0
+12/05/22,97045F35-0ACDEA-2E9B3,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Omen of the Sea,1,$0.09,0,$3.27,0,0,0,0,0,0
+12/05/22,97045F35-D6BED7-CC5D8,ProfessorSteg,Cards,Magic,Eventide,Near Mint,Rendclaw Trow,1,$0.05,$0.99,0,$3.07,$0.00,$0.40,$0.00,$0.40,$0.80
+12/05/22,97045F35-D6BED7-CC5D8,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Soul Warden,1,$0.84,0,0,0,0,0,0,0,0
+12/05/22,97045F35-D6BED7-CC5D8,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Contagion Clasp,1,$0.40,0,0,0,0,0,0,0,0
+12/05/22,97045F35-D6BED7-CC5D8,ProfessorSteg,Cards,Magic,Shadowmoor,Near Mint,Blowfly Infestation,1,$1.59,0,$3.87,0,0,0,0,0,0
+12/06/22,97045F35-99FBC6-25BCD,ProfessorSteg,Cards,Magic,Dominaria United,Near Mint,Lightning Strike,1,$0.02,$0.99,0,$0.59,$0.00,$0.11,$0.02,$0.33,$0.46
+12/06/22,97045F35-99FBC6-25BCD,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Invoke the Winds,1,$0.04,0,$1.05,0,0,0,0,0,0
+12/06/22,97045F35-A47BA9-AA974,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Amoeboid Changeling,1,$1.50,$0.99,$2.49,$1.82,$0.00,$0.24,$0.06,$0.37,$0.67
+12/07/22,97045F35-9C9084-09299,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Toil // Trouble,1,$0.01,$0.99,$1.00,$0.55,$0.00,$0.10,$0.02,$0.33,$0.45
+12/10/22,97045F35-A642C5-C75F6,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Harrow,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+12/10/22,97045F35-BE451A-E8D0A,ProfessorSteg,Cards,Magic,Eventide,Near Mint,Rendclaw Trow,1,$0.05,$0.99,$1.04,$0.58,$0.00,$0.11,$0.02,$0.33,$0.46
+12/11/22,97045F35-70327F-1697A,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Ramosian Revivalist,1,$0.05,$0.99,0,$0.75,$0.00,$0.12,$0.03,$0.33,$0.48
+12/11/22,97045F35-70327F-1697A,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Samite Censer-Bearer,1,$0.02,0,0,0,0,0,0,0,0
+12/11/22,97045F35-70327F-1697A,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Errant Doomsayers,1,$0.02,0,$1.23,0,0,0,0,0,0
+12/11/22,97045F35-70327F-1697A,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Knight of the Holy Nimbus,1,$0.10,0,0,0,0,0,0,0,0
+12/11/22,97045F35-70327F-1697A,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Zealot il-Vec,1,$0.05,0,0,0,0,0,0,0,0
+12/12/22,97045F35-8D4ED6-8B337,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Dragon's Fire,1,$0.05,$0.99,$1.04,$0.58,$0.00,$0.11,$0.02,$0.33,$0.46
+12/13/22,97045F35-3A2907-1E2CB,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Arcane Signet,1,$0.70,$0.99,$3.87,$3.01,$0.00,$0.37,$0.09,$0.40,$0.86
+12/13/22,97045F35-3A2907-1E2CB,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Canopy Vista,1,$0.58,0,0,0,0,0,0,0,0
+12/13/22,97045F35-3A2907-1E2CB,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Gavony Township,1,$1.00,0,0,0,0,0,0,0,0
+12/13/22,97045F35-3A2907-1E2CB,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Scattershot Archer,1,$0.52,0,0,0,0,0,0,0,0
+12/13/22,97045F35-3A2907-1E2CB,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Thornweald Archer,1,$0.08,0,0,0,0,0,0,0,0
+12/13/22,97045F35-8EAB8F-C34B7,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Arcbound Crusher,1,$1.51,$0.99,$2.50,,$0.00,$0.00,$0.00,$0.00,
+12/13/22,97045F35-99EE34-86FBB,ProfessorSteg,Cards,Magic,Planar Chaos,Near Mint,Psychotrope Thallid,1,$2.50,$0.99,$3.49,,$3.65,$0.00,$0.00,$0.00,
+12/13/22,97045F35-E6E90C-7E5C8,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Arcbound Crusher,1,$1.51,$0.99,$2.50,$1.83,$0.00,$0.24,$0.06,$0.37,$0.67
+12/14/22,97045F35-12AAB0-C7E71,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Scaled Herbalist,1,$0.02,$0.99,$1.01,$0.56,$0.00,$0.10,$0.02,$0.33,$0.45
+12/14/22,97045F35-BB924A-1D163,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint Foil,Soul Warden,1,$10.75,$0.99,$11.74,$9.75,$0.00,$1.09,$0.29,$0.61,$1.99
+12/14/22,97045F35-DC8491-95727,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Vampire Spawn,4,$0.01,$0.99,0,$0.70,$0.00,$0.12,$0.02,$0.33,$0.47
+12/14/22,97045F35-DC8491-95727,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Transcendent Envoy,2,$0.07,0,$1.17,0,0,0,0,0,0
+12/15/22,97045F35-B2C542-91388,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Critical Hit,1,$0.07,$0.99,$1.26,$0.78,$0.00,$0.12,$0.03,$0.33,$0.48
+12/15/22,97045F35-B2C542-91388,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Fifty Feet of Rope,1,$0.01,0,0,0,0,0,0,0,0
+12/15/22,97045F35-B2C542-91388,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Green Dragon,1,$0.04,0,0,0,0,0,0,0,0
+12/15/22,97045F35-B2C542-91388,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Wight,1,$0.15,0,0,0,0,0,0,0,0
+12/15/22,97045F35-B6E6DD-1851D,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Fighter Class,1,$0.75,$0.99,$1.74,$1.18,$0.00,$0.17,$0.04,$0.35,$0.56
+12/16/22,97045F35-8AD2D0-25D43,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Shambling Ghast,3,$0.15,$0.99,$1.44,$0.93,$0.00,$0.14,$0.03,$0.34,$0.51
+12/16/22,97045F35-9A3CA4-1822F,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Fellwar Stone,1,$0.78,$0.99,$1.96,$1.38,$0.00,$0.19,$0.04,$0.35,$0.58
+12/16/22,97045F35-9A3CA4-1822F,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Grapeshot,1,$0.19,0,0,0,0,0,0,0,0
+12/16/22,97045F35-60EC65-FB164,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Secret Door,1,$0.01,$0.99,0,$1.00,$0.00,$0.15,$0.03,$0.34,$0.52
+12/16/22,97045F35-60EC65-FB164,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Scattershot Archer,1,$0.52,0,$1.52,0,0,0,0,0,0
+12/16/22,97045F35-3643A3-94B50,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Burning Hands,1,$0.03,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+12/16/22,97045F35-3643A3-94B50,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Dragon's Fire,1,$0.05,0,0,0,0,0,0,0,0
+12/16/22,97045F35-3643A3-94B50,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Hobgoblin Captain,1,$0.01,0,0,0,0,0,0,0,0
+12/16/22,97045F35-3643A3-94B50,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Owlbear,1,$0.01,0,0,0,0,0,0,0,0
+12/16/22,97045F35-3643A3-94B50,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Ranger Class,1,$0.25,0,0,0,0,0,0,0,0
+12/16/22,97045F35-3643A3-94B50,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Warlock Class,1,$0.05,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Evolving Wilds,1,$0.05,$0.99,0,$2.20,$0.00,$0.28,$0.07,$0.38,$0.73
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Feign Death,1,$0.51,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Iron Golem,1,$0.01,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Owlbear,1,$0.01,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Plundering Barbarian,1,$0.02,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Eventide,Near Mint,Desecrator Hag,1,$0.05,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Lorwyn,Near Mint,Oblivion Ring,1,$0.20,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Lightly Played,Terramorphic Expanse,1,$0.18,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Sea Gate Oracle,1,$0.10,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Ulamog's Crusher,1,$0.20,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Gray Merchant of Asphodel,1,$0.46,0,0,0,0,0,0,0,0
+12/16/22,97045F35-AFDC15-7C925,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Adventuring Gear,1,$0.15,0,$2.93,0,0,0,0,0,0
+12/16/22,97045F35-CBA45A-7D1AF,ProfessorSteg,Cards,Magic,Lorwyn,Near Mint,Lignify,1,$0.69,$0.99,$1.68,$1.13,$0.00,$0.16,$0.04,$0.35,$0.55
+12/16/22,97045F35-D59AEE-77741,ProfessorSteg,Cards,Magic,Magic 2014 (M14),Near Mint,Brave the Elements,2,$0.75,$0.99,$2.49,$1.83,$0.00,$0.24,$0.06,$0.36,$0.66
+12/16/22,97045F35-EED680-EDE6E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Moon-Blessed Cleric,2,$0.74,$0.99,0,$2.60,$0.00,$0.32,$0.08,$0.39,$0.79
+12/16/22,97045F35-EED680-EDE6E,ProfessorSteg,Cards,Magic,Dominaria United,Near Mint,Phoenix Chick,1,$0.32,0,0,0,0,0,0,0,0
+12/16/22,97045F35-EED680-EDE6E,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Touch the Spirit Realm,1,$0.10,0,0,0,0,0,0,0,0
+12/16/22,97045F35-EED680-EDE6E,ProfessorSteg,Cards,Magic,Magic 2013 (M13),Near Mint,Archaeomancer,1,$0.22,0,$3.39,0,0,0,0,0,0
+12/16/22,97045F35-EED680-EDE6E,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Stern Dismissal,1,$0.08,0,0,0,0,0,0,0,0
+12/16/22,97045F35-EED680-EDE6E,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Spell Pierce,1,$0.20,0,0,0,0,0,0,0,0
+12/17/22,97045F35-9F8257-E8029,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Prodigal Pyromancer,1,$0.07,$0.99,0,$0.77,$0.00,$0.12,$0.03,$0.33,$0.48
+12/17/22,97045F35-9F8257-E8029,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Grapeshot,1,$0.19,0,$1.25,0,0,0,0,0,0
+12/17/22,97045F35-06FA30-66427,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Flooded Grove,1,$1.98,$0.99,$2.97,$2.24,$0.00,$0.28,$0.07,$0.38,$0.73
+12/17/22,97045F35-181E15-04097,ProfessorSteg,Cards,Magic,Planar Chaos,Near Mint,Dawn Charm,1,$0.20,$0.99,$1.19,$0.72,$0.00,$0.12,$0.02,$0.33,$0.47
+12/17/22,97045F35-62351A-31110,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Deadly Dispute,1,$0.90,$0.99,$1.89,$1.31,$0.00,$0.19,$0.04,$0.35,$0.58
+12/17/22,97045F35-F56E82-F2DB1,ProfessorSteg,Cards,Magic,Conflux,Near Mint Foil,"Nicol Bolas, Planeswalker",1,$22.98,$0.99,$23.97,$20.20,$0.00,$2.23,$0.59,$0.95,$3.77
+12/19/22,97045F35-0E5786-FAFC0,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Mountain (299) - JP Full Art,2,$1.55,$0.99,$4.09,$3.20,$0.00,$0.38,$0.10,$0.41,$0.89
+12/19/22,97045F35-1CA2D1-BB2EF,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Oswald Fiddlebender,1,$1.49,$0.99,$2.48,$1.82,$0.00,$0.24,$0.06,$0.36,$0.66
+12/19/22,97045F35-51C451-997E5,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Grapeshot,1,$0.19,$0.99,$1.18,$0.71,$0.00,$0.12,$0.02,$0.33,$0.47
+12/20/22,97045F35-0F5ED3-BA55E,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Eye of Vecna,1,$0.33,$0.99,$1.32,$0.82,$0.00,$0.13,$0.03,$0.34,$0.50
+12/20/22,97045F35-8C580C-7F323,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Ichor Rats,1,$1.10,$0.99,$2.09,$1.48,$0.00,$0.20,$0.05,$0.36,$0.61
+12/20/22,97045F35-406D8B-B4F12,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Generous Gift,1,$1.88,$0.99,$3.25,$2.48,$0.00,$0.31,$0.08,$0.38,$0.77
+12/20/22,97045F35-406D8B-B4F12,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,"Goro-Goro, Disciple of Ryusei",1,$0.38,0,0,0,0,0,0,0,0
+12/20/22,97045F35-67543D-0F8B2,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Soul Warden,1,$1.33,$0.99,$2.32,$1.68,$0.00,$0.23,$0.05,$0.36,$0.64
+12/20/22,97045F35-B20CA6-611F0,ProfessorSteg,Cards,Pokemon,Neo Genesis,Near Mint Unlimited Holofoil,Slowking,1,$21.98,$0.00,$21.98,$18.52,$0.00,$2.03,$0.55,$0.88,$3.46
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,"Ebondeath, Dracolich",1,$2.50,$0.00,0,$4.84,$0.00,$0.55,$0.15,$0.46,$1.16
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Aether Revolt,Near Mint,Unbridled Growth,3,$0.07,0,0,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Commander: Kamigawa: Neon Dynasty,Near Mint,"Chishiro, the Shattered Blade",1,$0.26,0,$6.00,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Core Set 2021,Near Mint,Llanowar Visionary,1,$0.11,0,0,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Dominaria United,Lightly Played Foil,Queen Allenal of Ruadach (Textured Foil),1,$0.49,0,0,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Forest (301) - JP Full Art,1,$0.94,0,0,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Llanowar Elves,1,$0.24,0,0,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Onslaught,Near Mint,Overwhelming Instinct,1,$0.36,0,0,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Ulamog's Crusher,1,$0.33,0,0,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Myr Galvanizer,1,$0.28,0,0,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Urza's Destiny,Lightly Played,Taunting Elf,1,$0.18,0,0,0,0,0,0,0,0
+12/20/22,97045F35-B70D8B-C4793,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Gnarlid Colony,2,$0.05,0,0,0,0,0,0,0,0
+12/20/22,97045F35-E00DC2-20657,ProfessorSteg,Cards,Magic,Jumpstart,Near Mint,Unstable Obelisk,1,$0.09,$0.99,$1.08,$0.62,$0.00,$0.11,$0.02,$0.33,$0.46
+12/21/22,97045F35-0FAB82-83C66,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Reaper's Talisman,1,$0.05,$0.99,0,$0.77,$0.00,$0.12,$0.03,$0.33,$0.48
+12/21/22,97045F35-0FAB82-83C66,ProfessorSteg,Cards,Magic,Commander 2021,Near Mint,Opal Palace,1,$0.10,0,0,0,0,0,0,0,0
+12/21/22,97045F35-0FAB82-83C66,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Mire Triton,1,$0.11,0,$1.25,0,0,0,0,0,0
+12/21/22,97045F35-8713C6-F7A02,ProfessorSteg,Cards,Magic,Core Set 2020,Near Mint,Epicure of Blood,1,$0.08,$0.99,$1.07,$0.61,$0.00,$0.11,$0.02,$0.33,$0.46
+12/21/22,97045F35-E85BDC-1D6DC,ProfessorSteg,Cards,Magic,Jumpstart,Near Mint,Unstable Obelisk,1,$0.09,$0.99,$1.08,$0.62,$0.00,$0.11,$0.02,$0.33,$0.46
+12/21/22,97045F35-F9F362-7F127,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Marauding Blight-Priest,2,$0.22,$0.99,$1.43,$0.92,$0.00,$0.14,$0.03,$0.34,$0.51
+12/22/22,97045F35-CBA425-1781B,ProfessorSteg,Cards,Magic,Worldwake,Near Mint,Bazaar Trader,1,$1.25,$0.99,$2.24,$1.61,$0.00,$0.22,$0.05,$0.36,$0.63
+12/23/22,97045F35-0CDE6E-2B652,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Tajuru Blightblade,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+12/23/22,97045F35-41DFA1-7099F,ProfessorSteg,Cards,Magic,Ikoria: Lair of Behemoths,Near Mint,Scoured Barrens,1,$0.07,$0.99,$1.06,$0.60,$0.00,$0.11,$0.02,$0.33,$0.46
+12/23/22,97045F35-79EFA9-521FB,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Sol Ring,1,$1.27,$0.99,$2.26,$1.63,$0.00,$0.22,$0.05,$0.36,$0.63
+12/23/22,97045F35-91DF72-20EE7,ProfessorSteg,Cards,Magic,Core Set 2021,Near Mint,Tolarian Kraken,1,$0.06,$0.99,$1.05,$0.59,$0.00,$0.11,$0.02,$0.33,$0.46
+12/23/22,97045F35-131CBB-A93E9,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Tajuru Blightblade,1,$0.06,$0.99,$1.05,$0.59,$0.00,$0.11,$0.02,$0.33,$0.46
+12/23/22,97045F35-239FE9-BEB65,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Plains,6,$0.54,$0.99,$4.23,$3.32,$0.00,$0.40,$0.10,$0.41,$0.91
+12/23/22,97045F35-A9CDC4-B33C3,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Tajuru Blightblade,1,$0.06,$0.99,$1.05,$0.59,$0.00,$0.11,$0.02,$0.33,$0.46
+12/23/22,97045F35-A8332D-8835D,ProfessorSteg,Cards,YuGiOh,Stairway to the Destined Duel,Near Mint Limited,Valkyrion the Magna Warrior,1,$8.95,$0.00,$8.95,$7.36,$0.00,$0.83,$0.22,$0.54,$1.59
+12/23/22,97045F35-AD6CCA-D3F1C,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Marauding Blight-Priest,1,$0.22,$0.99,$1.21,$0.73,$0.00,$0.12,$0.03,$0.33,$0.48
+12/23/22,97045F35-C515BC-E0145,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Slippery Bogbonder,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+12/23/22,97045F35-C63717-9D1AB,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Steelbane Hydra,1,$0.51,$0.99,$1.50,$0.98,$0.00,$0.15,$0.03,$0.34,$0.52
+12/23/22,97045F35-CF3FA9-4E825,ProfessorSteg,Cards,Magic,Aether Revolt,Near Mint,Efficient Construction,1,$0.48,$0.99,$1.47,$0.95,$0.00,$0.15,$0.03,$0.34,$0.52
+12/24/22,97045F35-15CFA7-CC250,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Island,7,$1.88,$0.00,$13.16,,$0.00,$0.00,$0.00,$0.00,
+12/24/22,97045F35-129A2A-71170,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Island,7,$1.88,$0.00,$13.16,$10.96,$0.00,$1.22,$0.33,$0.65,$2.20
+12/24/22,97045F35-42100F-76878,ProfessorSteg,Cards,Magic,Ice Age,Heavily Played,Snow-Covered Swamp,2,$0.87,$0.99,$0.00,$0.00,$2.95,$0.26,$0.06,$0.37,$0.00
+12/24/22,97045F35-B65D51-98D26,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Island,7,$1.88,$0.00,$13.16,,$0.00,$0.00,$0.00,$0.00,
+12/24/22,97045F35-F85B52-18F1D,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Teleportation Circle,1,$3.25,$0.99,$4.24,$3.33,$0.00,$0.40,$0.10,$0.41,$0.91
+12/24/22,97045F35-F3883D-CC06C,ProfessorSteg,Cards,Magic,Commander: Kaldheim,Near Mint,Elvish Promenade,1,$0.93,$0.99,$1.92,$1.34,$0.00,$0.19,$0.04,$0.35,$0.58
+12/25/22,97045F35-0AFECA-8CFDF,ProfessorSteg,Cards,Magic,Duel Decks: Divine vs. Demonic,Near Mint,Reya Dawnbringer,1,$2.00,$0.99,0,,$0.00,$0.00,$0.00,$0.00,
+12/25/22,97045F35-0AFECA-8CFDF,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Invoke Justice,1,$0.07,0,$3.06,0,0,0,0,0,0
+12/25/22,97045F35-60572D-9C80C,ProfessorSteg,Cards,Magic,Duel Decks: Divine vs. Demonic,Near Mint,Reya Dawnbringer,1,$2.00,$0.99,0,$2.32,$0.00,$0.29,$0.07,$0.38,$0.74
+12/25/22,97045F35-60572D-9C80C,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Invoke Justice,1,$0.07,0,$3.06,0,0,0,0,0,0
+12/25/22,97045F35-65733A-EA151,ProfessorSteg,Cards,YuGiOh,2003 Collectors Tin,Near Mint Limited,Dark Magician,1,$21.24,$0.00,$21.24,$17.91,$0.00,$1.97,$0.53,$0.83,$3.33
+12/25/22,97045F35-FB0F38-89EB4,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Nim Deathmantle,1,$2.85,$0.99,$3.84,$2.99,$0.00,$0.36,$0.09,$0.40,$0.85
+12/26/22,97045F35-5AC68E-643AB,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Captain of the Watch,1,$0.52,$0.99,$1.51,$0.99,$0.00,$0.15,$0.03,$0.34,$0.52
+12/26/22,97045F35-6FB4BD-BDF20,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Destiny Spinner,1,$2.56,$0.99,$3.83,$2.98,$0.00,$0.36,$0.09,$0.40,$0.85
+12/26/22,97045F35-6FB4BD-BDF20,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,"Renata, Called to the Hunt",1,$0.28,0,0,0,0,0,0,0,0
+12/26/22,97045F35-7D1AF4-2E811,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Portable Hole,2,$0.92,$0.00,0,$4.27,$0.00,$0.50,$0.13,$0.44,$1.07
+12/26/22,97045F35-7D1AF4-2E811,ProfessorSteg,Cards,Magic,Dragons of Tarkir,Near Mint,Rending Volley,1,$2.19,0,0,0,0,0,0,0,0
+12/26/22,97045F35-7D1AF4-2E811,ProfessorSteg,Cards,Magic,Magic Origins,Near Mint,Fiery Impulse,4,$0.27,0,0,0,0,0,0,0,0
+12/26/22,97045F35-7D1AF4-2E811,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Dream Trawler,1,$0.23,0,$5.34,0,0,0,0,0,0
+12/26/22,97045F35-786809-DAEEF,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Swiftfoot Boots,1,$0.54,$0.99,$1.53,$1.01,$0.00,$0.15,$0.03,$0.34,$0.52
+12/26/22,97045F35-C8B3CD-5EEF0,ProfessorSteg,Cards,Pokemon,Base Set 2,Near Mint Holofoil,Clefable,1,$10.13,$0.00,$10.13,$8.37,$0.00,$0.94,$0.25,$0.57,$1.76
+12/26/22,97045F35-E6B3F5-CED68,ProfessorSteg,Cards,YuGiOh,Eternal Duelist Soul,Damaged Limited,Skull Dice,1,$0.65,$0.99,$1.64,$1.10,$0.00,$0.16,$0.04,$0.34,$0.54
+12/26/22,97045F35-ED3FE9-E7761,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Lighthouse Chronologist,1,$10.49,$0.00,$10.49,$8.68,$0.00,$0.97,$0.26,$0.58,$1.81
+12/26/22,97045F35-FEBE37-FF3EA,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint Foil,Island (296) - JP Full Art,1,$2.53,$0.00,$6.03,$4.86,$0.00,$0.56,$0.15,$0.46,$1.17
+12/26/22,97045F35-FEBE37-FF3EA,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Pathrazer of Ulamog,1,$3.50,0,0,0,0,0,0,0,0
+12/27/22,97045F35-4E8925-4A0E2,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Homing Sliver,1,$0.25,$0.99,0,$2.44,$0.00,$0.30,$0.08,$0.39,$0.77
+12/27/22,97045F35-4E8925-4A0E2,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Mesmeric Sliver,1,$0.25,0,0,0,0,0,0,0,0
+12/27/22,97045F35-4E8925-4A0E2,ProfessorSteg,Cards,Magic,Magic 2014 (M14),Near Mint,Battle Sliver,1,$0.25,0,0,0,0,0,0,0,0
+12/27/22,97045F35-4E8925-4A0E2,ProfessorSteg,Cards,Magic,Magic 2014 (M14),Near Mint,Blur Sliver,1,$0.25,0,0,0,0,0,0,0,0
+12/27/22,97045F35-4E8925-4A0E2,ProfessorSteg,Cards,Magic,Planar Chaos,Near Mint,Battering Sliver,1,$0.25,0,$3.21,0,0,0,0,0,0
+12/27/22,97045F35-4E8925-4A0E2,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Gemhide Sliver,1,$0.40,0,0,0,0,0,0,0,0
+12/27/22,97045F35-4E8925-4A0E2,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Quilled Sliver,1,$0.32,0,0,0,0,0,0,0,0
+12/27/22,97045F35-4E8925-4A0E2,ProfessorSteg,Cards,Magic,Urza's Destiny,Near Mint,Wall of Glare,1,$0.25,0,0,0,0,0,0,0,0
+12/27/22,97045F35-68EDD8-87DA7,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Guardian of Faith,1,$1.90,$0.99,$2.89,$2.17,$0.00,$0.27,$0.07,$0.38,$0.72
+12/27/22,97045F35-437E05-79C2E,ProfessorSteg,Cards,Magic,Commander: Kaldheim,Near Mint,Lys Alana Huntmaster,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+12/27/22,97045F35-520D50-460B5,ProfessorSteg,Cards,Magic,Strixhaven: School of Mages,Near Mint,Access Tunnel,1,$0.60,$0.99,$1.59,$1.06,$0.00,$0.15,$0.04,$0.34,$0.53
+12/27/22,97045F35-834E24-910CD,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,"Hinata, Dawn-Crowned",1,$0.15,$0.99,$1.14,$0.67,$0.00,$0.12,$0.02,$0.33,$0.47
+12/27/22,97045F35-CDA644-1146F,ProfessorSteg,Cards,Pokemon,WoTC Promo,Near Mint,Pikachu (1),1,$8.45,$0.00,$3.45,$2.66,$5.31,$0.78,$0.21,$0.52,$0.79
+12/27/22,97045F35-EB3B63-63263,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Muscle Sliver,2,$1.24,$0.99,$3.47,$2.67,$0.00,$0.33,$0.08,$0.39,$0.80
+12/28/22,97045F35-53B4EB-F9E75,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Acidic Sliver,1,$0.96,$0.99,$1.95,$1.37,$0.00,$0.19,$0.04,$0.35,$0.58
+12/28/22,97045F35-3747E1-9DA5F,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Necropede,1,$0.47,$0.99,$1.46,$0.94,$0.00,$0.15,$0.03,$0.34,$0.52
+12/28/22,97045F35-C0D9D8-32707,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Swamp,5,$1.23,$0.00,$6.15,$4.98,$0.00,$0.57,$0.15,$0.45,$1.17
+12/29/22,97045F35-466872-0EDDD,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Nim Deathmantle,1,$2.85,$0.99,$3.84,$2.99,$0.00,$0.36,$0.09,$0.40,$0.85
+12/30/22,97045F35-46D9DD-7AB07,ProfessorSteg,Cards,Magic,Ikoria: Lair of Behemoths,Near Mint,Parcelbeast (Showcase),1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+12/30/22,97045F35-734881-04573,ProfessorSteg,Cards,YuGiOh,Pharaoh's Servant,Near Mint Unlimited,Wingweaver,1,$0.17,$0.99,$1.16,$0.69,$0.00,$0.12,$0.02,$0.33,$0.47
+12/30/22,97045F35-C2FA59-E7634,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Relentless Rats,1,$2.15,$0.99,$3.14,$2.39,$0.00,$0.30,$0.07,$0.38,$0.75
+12/30/22,97045F35-FEE031-8705C,ProfessorSteg,Cards,Magic,10th Edition,Lightly Played,Scalpelexis,1,$0.18,$0.99,$1.17,$0.70,$0.00,$0.12,$0.02,$0.33,$0.47
+01/01/23,97045F35-DD6356-A4021,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Keep Watch,1,$1.07,$0.99,$2.06,$1.45,$0.00,$0.20,$0.05,$0.36,$0.61
+01/02/23,97045F35-6EF8CD-76458,ProfessorSteg,Cards,Magic,Fifth Dawn,Near Mint,Neurok Stealthsuit,1,$0.39,$0.99,$1.38,$0.87,$0.00,$0.14,$0.03,$0.34,$0.51
+01/02/23,97045F35-9AD9F2-796C3,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint Foil,Necropede,1,$3.73,$0.99,$4.72,$3.74,$0.00,$0.45,$0.11,$0.42,$0.98
+01/02/23,97045F35-98A5E9-F2BED,ProfessorSteg,Cards,Magic,Magic 2012 (M12),Lightly Played,Reassembling Skeleton,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/02/23,97045F35-178B1D-2C413,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Flamekin Harbinger,2,$2.09,$0.99,$5.17,$4.11,$0.00,$0.49,$0.12,$0.45,$1.06
+01/02/23,97045F35-707F99-A3F44,ProfessorSteg,Cards,Magic,Battle for Zendikar,Near Mint,Titan's Presence,1,$0.25,$0.99,0,,$0.00,$0.00,$0.00,$0.00,
+01/02/23,97045F35-707F99-A3F44,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Plasm Capture,1,$0.15,0,0,0,0,0,0,0,0
+01/02/23,97045F35-707F99-A3F44,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Clockspinning,1,$0.27,0,$1.66,0,0,0,0,0,0
+01/02/23,97045F35-7305A0-22F8E,ProfessorSteg,Cards,Magic,Battle for Zendikar,Near Mint,Titan's Presence,1,$0.25,$0.99,0,$1.12,$0.00,$0.16,$0.04,$0.34,$0.54
+01/02/23,97045F35-7305A0-22F8E,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Plasm Capture,1,$0.15,0,0,0,0,0,0,0,0
+01/02/23,97045F35-7305A0-22F8E,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Clockspinning,1,$0.27,0,$1.66,0,0,0,0,0,0
+01/03/23,97045F35-8C0D9E-17189,ProfessorSteg,Cards,Magic,Betrayers of Kamigawa,Lightly Played,Empty-Shrine Kannushi,2,$0.30,$0.99,$1.59,$1.06,$0.00,$0.15,$0.04,$0.34,$0.53
+01/03/23,97045F35-62BA62-5AAAB,ProfessorSteg,Cards,Magic,Aether Revolt,Near Mint,Metallic Rebuke,4,$0.25,$0.99,$1.99,$1.40,$0.00,$0.20,$0.04,$0.35,$0.59
+01/03/23,97045F35-67956E-8EC4A,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Vorpal Sword,1,$0.93,$0.99,$1.92,$1.34,$0.00,$0.19,$0.04,$0.35,$0.58
+01/03/23,97045F35-325027-C0E41,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Cranial Plating,1,$0.53,$0.99,$2.56,$1.89,$0.00,$0.24,$0.06,$0.37,$0.67
+01/03/23,97045F35-325027-C0E41,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Myr Enforcer,2,$0.52,0,0,0,0,0,0,0,0
+01/03/23,97045F35-E9995C-F202B,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi,Near Mint Unlimited,Dark Magician,1,$29.00,$0.00,$29.00,$24.51,$0.00,$2.69,$0.72,$1.08,$4.49
+01/04/23,97045F35-31E386-1C64B,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Mirror Box,1,$1.53,$0.99,$2.52,$1.85,$0.00,$0.24,$0.06,$0.37,$0.67
+01/04/23,97045F35-A758CE-C97DF,ProfessorSteg,Cards,Magic,Gatecrash,Lightly Played,Boros Guildgate,1,$0.09,$0.99,$1.08,$0.62,$0.00,$0.11,$0.02,$0.33,$0.46
+01/04/23,97045F35-C36A9C-3B818,ProfessorSteg,Cards,Magic,Dominaria United,Near Mint,Twinferno,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/04/23,97045F35-E6C81B-2EA06,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Evolution Sage,1,$0.98,$0.99,$1.97,$1.38,$0.00,$0.20,$0.04,$0.35,$0.59
+01/04/23,97045F35-E27930-CFF8C,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Captain of the Watch,1,$0.52,$0.00,$9.41,$7.75,$0.00,$0.87,$0.24,$0.55,$1.66
+01/04/23,97045F35-E27930-CFF8C,ProfessorSteg,Cards,Magic,Visions,Lightly Played,Femeref Enchantress,1,$8.89,0,0,0,0,0,0,0,0
+01/05/23,97045F35-2A92A6-05204,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Dryad of the Ilysian Grove,1,$16.83,$0.00,$16.83,$14.10,$0.00,$1.56,$0.42,$0.75,$2.73
+01/05/23,97045F35-157C24-A1273,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Incubation Druid,1,$0.45,$0.99,$1.44,$0.93,$0.00,$0.14,$0.03,$0.34,$0.51
+01/05/23,97045F35-F526C8-5C541,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Rishkar's Expertise,1,$1.50,$0.99,$2.49,$1.83,$0.00,$0.24,$0.06,$0.36,$0.66
+01/06/23,97045F35-4C5FF5-3141D,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Ground Rift,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Ancient Telescope,1,$0.35,$0.00,$5.12,$4.08,$0.00,$0.47,$0.13,$0.44,$1.04
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Dark Hole,1,$0.60,0,0,0,0,0,0,0,0
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Dark Titan of Terror,1,$0.39,0,0,0,0,0,0,0,0
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Judge Man,1,$0.52,0,0,0,0,0,0,0,0
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Lord of D.,1,$0.59,0,0,0,0,0,0,0,0
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Rude Kaiser,1,$0.83,0,0,0,0,0,0,0,0
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Ryu-Kishin Powered,1,$0.28,0,0,0,0,0,0,0,0
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Skull Red Bird,1,$0.26,0,0,0,0,0,0,0,0
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Swordstalker,1,$0.79,0,0,0,0,0,0,0,0
+01/07/23,97045F35-716B43-17EF2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Ultimate Offering,1,$0.51,0,0,0,0,0,0,0,0
+01/07/23,97045F35-43481D-95A5A,ProfessorSteg,Cards,Magic,Modern Horizons,Near Mint,Graveshifter,1,$0.46,$0.99,$1.45,$0.94,$0.00,$0.14,$0.03,$0.34,$0.51
+01/07/23,97045F35-A52D30-803A0,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Karn's Bastion,1,$2.86,$0.99,$3.85,$2.99,$0.00,$0.37,$0.09,$0.40,$0.86
+01/07/23,97045F35-AF2FF2-87DEF,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Forbidding Watchtower,1,$0.52,$0.99,$1.51,$0.99,$0.00,$0.15,$0.03,$0.34,$0.52
+01/08/23,97045F35-E2AA86-69577,ProfessorSteg,Cards,YuGiOh,Metal Raiders,Near Mint Unlimited,Mask of Darkness,1,$0.84,$0.99,$1.83,$1.26,$0.00,$0.18,$0.04,$0.35,$0.57
+01/08/23,97045F35-E653CF-B78B4,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Bloodline Pretender,1,$0.81,$0.99,$1.80,$1.23,$0.00,$0.18,$0.04,$0.35,$0.57
+01/09/23,97045F35-2D7CCC-6F7C6,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Fires of Yavimaya,1,$0.70,$0.99,$1.69,$1.14,$0.00,$0.16,$0.04,$0.35,$0.55
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Asmodeus the Archfiend,1,$0.20,$0.00,0,$4.88,$0.00,$0.56,$0.15,$0.46,$1.17
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Dragon Turtle,1,$0.24,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Amonkhet,Near Mint,Blazing Volley,1,$0.25,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Dominaria United,Near Mint,Tolarian Terror,1,$0.53,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Ambitious Farmhand,1,$0.19,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Kaladesh,Near Mint,Wily Bandar,1,$0.25,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Demonic Gifts,1,$0.25,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Elderfang Disciple,1,$0.25,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Littjara Mirrorlake,1,$0.25,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Fang of Shigeki,1,$0.25,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,"Tatsunari, Toad Rider",1,$0.13,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Late to Dinner,1,$0.25,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Wren's Run Hydra,1,$0.25,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Altar of the Pantheon,1,$0.25,0,$6.05,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Gravebreaker Lamia,1,$0.51,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,"Kunoros, Hound of Athreos",1,$0.33,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,"Polukranos, Unchained",1,$0.77,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,"Thryx, the Sudden Storm",1,$0.57,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,Throne of Eldraine,Near Mint,"Syr Carah, the Bold",1,$0.14,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6A73DD-F6B8F,ProfessorSteg,Cards,Magic,War of the Spark,Near Mint,Pollenbright Druid,1,$0.19,0,0,0,0,0,0,0,0
+01/09/23,97045F35-6AE242-AD6DE,ProfessorSteg,Cards,Magic,Shadowmoor,Near Mint,Rite of Consumption,4,$0.66,$0.00,0,$4.51,$0.00,$0.52,$0.14,$0.45,$1.11
+01/09/23,97045F35-6AE242-AD6DE,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Expedition Map,1,$2.98,0,$5.62,0,0,0,0,0,0
+01/09/23,97045F35-14C4D9-A681B,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Scurry Oak,1,$0.25,$0.99,$1.24,,$0.00,$0.00,$0.00,$0.00,
+01/09/23,97045F35-218043-7CFAE,ProfessorSteg,Cards,Magic,Jumpstart,Near Mint,Witch of the Moors,1,$3.15,$0.99,$4.14,$3.24,$0.00,$0.39,$0.10,$0.41,$0.90
+01/09/23,97045F35-C5028F-89677,ProfessorSteg,Cards,Magic,Born of the Gods,Near Mint,Gorgon's Head,1,$0.65,$0.99,$1.64,$1.10,$0.00,$0.16,$0.04,$0.34,$0.54
+01/09/23,97045F35-DC2874-73415,ProfessorSteg,Cards,Magic,Commander: Zendikar Rising,Near Mint,Embodiment of Insight,1,$0.11,$0.99,$1.10,$0.64,$0.00,$0.11,$0.02,$0.33,$0.46
+01/09/23,97045F35-E2DB73-52CCC,ProfessorSteg,Cards,Magic,Commander Legends,Near Mint,Prava of the Steel Legion,1,$0.19,$0.99,$1.18,$0.71,$0.00,$0.12,$0.02,$0.33,$0.47
+01/09/23,97045F35-F1D526-C84E5,ProfessorSteg,Cards,Magic,Khans of Tarkir,Near Mint,Goblinslide,1,$0.21,$0.99,0,$0.73,$0.00,$0.12,$0.03,$0.33,$0.48
+01/09/23,97045F35-F1D526-C84E5,ProfessorSteg,Cards,Magic,Oath of the Gatewatch,Near Mint,Brute Strength,1,$0.01,0,$1.21,0,0,0,0,0,0
+01/10/23,97045F35-5FCBA6-4E38A,ProfessorSteg,Cards,Magic,Commander 2020,Near Mint,Deathsprout,1,$0.31,$0.99,$1.30,$0.80,$0.00,$0.13,$0.03,$0.34,$0.50
+01/10/23,97045F35-8A8940-28FEB,ProfessorSteg,Cards,Magic,Commander: Zendikar Rising,Near Mint,Terramorphic Expanse,1,$0.19,$0.99,0,$0.89,$0.00,$0.14,$0.03,$0.34,$0.51
+01/10/23,97045F35-8A8940-28FEB,ProfessorSteg,Cards,Magic,Ravnica Allegiance,Near Mint,Open the Gates,1,$0.22,0,$1.40,0,0,0,0,0,0
+01/10/23,97045F35-9416D1-85180,ProfessorSteg,Cards,Magic,Dark Ascension,Lightly Played,Gravepurge,1,$0.14,$0.99,$1.13,$0.66,$0.00,$0.12,$0.02,$0.33,$0.47
+01/10/23,97045F35-14170E-469CD,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Thrummingbird,1,$0.25,$0.99,0,$2.38,$0.00,$0.30,$0.07,$0.38,$0.75
+01/10/23,97045F35-14170E-469CD,ProfessorSteg,Cards,Magic,Shadows over Innistrad,Near Mint,Essence Flux,1,$1.89,0,$3.13,0,0,0,0,0,0
+01/10/23,97045F35-68245C-4F676,ProfessorSteg,Cards,Magic,Timeshifted,Near Mint,Thallid,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/10/23,97045F35-CEB7F9-AF90A,ProfessorSteg,Cards,Magic,Dark Ascension,Lightly Played,Undying Evil,1,$0.55,$0.99,$1.54,$1.02,$0.00,$0.15,$0.03,$0.34,$0.52
+01/10/23,97045F35-DC4EC8-4106C,ProfessorSteg,Cards,Magic,Avacyn Restored,Near Mint,Angelic Wall,1,$0.09,$0.99,$1.08,$0.62,$0.00,$0.11,$0.02,$0.33,$0.46
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Veteran Dungeoneer,1,$0.25,$0.99,0,$3.71,$0.00,$0.45,$0.11,$0.43,$0.99
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Act of Aggression,1,$0.20,0,$4.70,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Artillerize,1,$0.11,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Chained Throatseeker,2,$0.11,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Death-Hood Cobra,1,$0.06,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Defensive Stance,2,$0.03,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Due Respect,1,$0.12,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Grim Affliction,1,$0.26,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Insatiable Souleater,1,$0.07,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Marrow Shards,1,$0.16,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Mycosynth Wellspring,1,$0.11,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Numbing Dose,1,$0.10,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Parasitic Implant,1,$0.08,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Pestilent Souleater,1,$0.08,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Phyrexian Hulk,2,$0.05,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Remember the Fallen,1,$0.09,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Rotted Hystrix,1,$0.04,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Scrapyard Salvo,2,$0.06,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Shriek Raptor,2,$0.11,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Spined Thopter,2,$0.07,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Spire Monitor,1,$0.05,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Toxic Nim,2,$0.17,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Victorious Destruction,2,$0.07,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Viridian Harvest,2,$0.06,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Vital Splicer,1,$0.15,0,0,0,0,0,0,0,0
+01/10/23,97045F35-F47F8C-96EDD,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Volt Charge,2,$0.16,0,0,0,0,0,0,0,0
+01/11/23,97045F35-6EE6B1-CC582,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Dragonspeaker Shaman,1,$2.62,$0.99,$3.61,$2.79,$0.00,$0.34,$0.09,$0.39,$0.82
+01/11/23,97045F35-27E3E0-0AC4A,ProfessorSteg,Cards,Magic,Mirrodin Besieged,Near Mint,White Sun's Zenith,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/11/23,97045F35-041D26-0CCEB,ProfessorSteg,Cards,Magic,Duel Decks: Blessed vs. Cursed,Near Mint,Seraph Sanctuary,1,$0.59,$0.99,$1.58,$1.05,$0.00,$0.16,$0.03,$0.34,$0.53
+01/11/23,97045F35-32722D-31C8E,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Path to Exile,1,$2.74,$0.99,$3.73,$2.89,$0.00,$0.35,$0.09,$0.40,$0.84
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Joey,Near Mint Unlimited,Giant Trunade,1,$0.66,$0.00,0,$2.61,$2.12,$0.50,$0.13,$0.44,$0.78
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Armed Ninja,1,$0.22,0,$3.39,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Black Illusion Ritual,1,$0.33,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Dark Hole,1,$0.33,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Enchanted Javelin,1,$0.25,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Giant Soldier of Stone,1,$0.12,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Mask of Darkness,1,$0.59,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Remove Trap,1,$0.25,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Toon Alligator,1,$0.40,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Toon Mermaid,1,$0.54,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Toon Summoned Skull,1,$0.44,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Toon World,1,$0.46,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Waboku,1,$0.39,0,0,0,0,0,0,0,0
+01/11/23,97045F35-CC8D71-8BB42,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Witch of the Black Forest,1,$0.41,0,0,0,0,0,0,0,0
+01/12/23,97045F35-06330D-3C576,ProfessorSteg,Cards,Pokemon,Team Rocket,Near Mint Unlimited Holofoil,Dark Weezing (14),1,$5.50,$0.00,$5.50,$4.40,$0.00,$0.51,$0.14,$0.45,$1.10
+01/12/23,97045F35-D52585-FA53D,ProfessorSteg,Cards,Magic,Eternal Masters,Near Mint,Fog,1,$0.28,$0.99,$1.27,$0.79,$0.00,$0.12,$0.03,$0.33,$0.48
+01/13/23,97045F35-D2E564-21D81,ProfessorSteg,Cards,YuGiOh,Metal Raiders,Near Mint Unlimited,Lady of Faith,1,$0.36,$0.99,$2.22,$1.60,$0.00,$0.21,$0.05,$0.36,$0.62
+01/13/23,97045F35-D2E564-21D81,ProfessorSteg,Cards,YuGiOh,Metal Raiders,Near Mint Unlimited,Shadow Ghoul,1,$0.87,0,0,0,0,0,0,0,0
+01/13/23,97045F35-FB2079-0EE8A,ProfessorSteg,Cards,Magic,Lorwyn,Near Mint,Lignify,1,$1.57,$0.99,$2.56,$1.89,$0.00,$0.24,$0.06,$0.37,$0.67
+01/14/23,97045F35-6A53BA-4996F,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Druid Class,1,$0.78,$0.99,$1.77,$1.21,$0.00,$0.17,$0.04,$0.35,$0.56
+01/14/23,97045F35-CD7296-4BD3D,ProfessorSteg,Cards,Magic,Timeshifted,Near Mint,Thallid,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/14/23,97045F35-F8A5FB-6E7F4,ProfessorSteg,Cards,Magic,10th Edition,Damaged,Mogg Fanatic,1,$0.05,$0.99,$1.71,$1.16,$0.00,$0.16,$0.04,$0.35,$0.55
+01/14/23,97045F35-F8A5FB-6E7F4,ProfessorSteg,Cards,Magic,Hour of Devastation,Near Mint,Survivors' Encampment,1,$0.30,0,0,0,0,0,0,0,0
+01/14/23,97045F35-F8A5FB-6E7F4,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Ornithopter of Paradise,1,$0.37,0,0,0,0,0,0,0,0
+01/14/23,97045F35-FD3EC7-A85FC,ProfessorSteg,Cards,Magic,Khans of Tarkir,Near Mint,Tomb of the Spirit Dragon,1,$0.41,$0.99,0,$1.34,$0.00,$0.19,$0.04,$0.35,$0.58
+01/14/23,97045F35-FD3EC7-A85FC,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Mine Collapse,1,$0.25,0,0,0,0,0,0,0,0
+01/14/23,97045F35-FD3EC7-A85FC,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Hull Breach,1,$0.27,0,$1.92,0,0,0,0,0,0
+01/15/23,97045F35-0F878F-563A7,ProfessorSteg,Cards,Magic,Mirrodin Besieged,Near Mint,Viridian Corrupter,1,$0.27,$0.99,$1.26,$0.78,$0.00,$0.12,$0.03,$0.33,$0.48
+01/15/23,97045F35-4DA8EB-E0357,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Virulent Sliver,1,$0.91,$0.99,$1.90,$1.32,$0.00,$0.19,$0.04,$0.35,$0.58
+01/15/23,97045F35-875445-6318B,ProfessorSteg,Cards,Magic,Avacyn Restored,Near Mint,Seraph Sanctuary,1,$0.60,$0.99,$1.59,$1.06,$0.00,$0.15,$0.04,$0.34,$0.53
+01/15/23,97045F35-CCF24F-B12D6,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Artisan of Kozilek,1,$0.52,$0.99,$1.51,$0.99,$0.00,$0.15,$0.03,$0.34,$0.52
+01/15/23,97045F35-D7E494-55AA6,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Cathar Commando,1,$0.26,$0.99,$1.25,$0.77,$0.00,$0.12,$0.03,$0.33,$0.48
+01/16/23,97045F35-0E7FC5-16F91,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Iron Myr,1,$1.21,$0.99,$2.20,$1.58,$0.00,$0.21,$0.05,$0.36,$0.62
+01/16/23,97045F35-6CBD89-DA417,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Skeleton Shard,1,$0.27,$0.99,$1.26,$0.78,$0.00,$0.12,$0.03,$0.33,$0.48
+01/16/23,97045F35-2590E5-D1283,ProfessorSteg,Cards,Magic,Gatecrash,Lightly Played,Alpha Authority,1,$1.22,$0.99,$2.21,$1.59,$0.00,$0.21,$0.05,$0.36,$0.62
+01/16/23,97045F35-A5B5EC-AD9AD,ProfessorSteg,Cards,Magic,Archenemy,Lightly Played,Seething Song,1,$0.99,$0.99,$1.98,$1.39,$0.00,$0.20,$0.04,$0.35,$0.59
+01/16/23,97045F35-ABB836-D728D,ProfessorSteg,Cards,Magic,Avacyn Restored,Near Mint,Seraph Sanctuary,1,$0.60,$0.99,$1.59,$1.06,$0.00,$0.15,$0.04,$0.34,$0.53
+01/16/23,97045F35-FFDA92-658B7,ProfessorSteg,Cards,Magic,Tempest,Near Mint,Flickering Ward,1,$5.23,$0.00,$5.23,$4.18,$0.00,$0.48,$0.13,$0.44,$1.05
+01/18/23,97045F35-8F36F1-334C6,ProfessorSteg,Cards,Magic,Zendikar,Near Mint Foil,Hellkite Charger,1,$5.00,$0.00,$5.00,$3.98,$0.00,$0.47,$0.12,$0.43,$1.02
+01/18/23,97045F35-454B60-2DC74,ProfessorSteg,Cards,Magic,Time Spiral: Remastered,Near Mint,Haze of Rage,1,$0.39,$0.99,$1.38,$0.87,$0.00,$0.14,$0.03,$0.34,$0.51
+01/18/23,97045F35-A0AB7B-EEDCA,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Paladin Class,1,$0.38,$0.99,0,$1.16,$0.00,$0.17,$0.04,$0.35,$0.56
+01/18/23,97045F35-A0AB7B-EEDCA,ProfessorSteg,Cards,Magic,Throne of Eldraine,Near Mint,Crashing Drawbridge,1,$0.35,0,$1.72,0,0,0,0,0,0
+01/18/23,97045F35-FC44AE-9DF7E,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Sarcomite Myr,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/19/23,97045F35-7F4BA7-1C1CC,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Uraby,1,$0.19,$0.99,$1.18,$0.71,$0.00,$0.12,$0.02,$0.33,$0.47
+01/19/23,97045F35-34B621-667AE,ProfessorSteg,Cards,Magic,Tempest,Near Mint,Flickering Ward,1,$5.23,$0.00,$5.23,$4.18,$0.00,$0.48,$0.13,$0.44,$1.05
+01/19/23,97045F35-58E60E-88252,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Nadir Kraken,1,$0.47,$0.99,$1.46,$0.94,$0.00,$0.15,$0.03,$0.34,$0.52
+01/19/23,97045F35-8232A7-248F6,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint Foil,Consume Spirit,1,$0.56,$0.99,$1.55,$1.02,$0.00,$0.16,$0.03,$0.34,$0.53
+01/20/23,97045F35-67BA0C-70879,ProfessorSteg,Cards,Magic,Aether Revolt,Near Mint,Mobile Garrison,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/20/23,97045F35-051B95-BBC5B,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Marauding Blight-Priest,4,$0.25,$0.99,$1.99,$1.40,$0.00,$0.20,$0.04,$0.35,$0.59
+01/20/23,97045F35-360834-02E8D,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Herd Baloth,1,$0.25,$0.99,0,$1.25,$0.00,$0.18,$0.04,$0.35,$0.57
+01/20/23,97045F35-360834-02E8D,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Contagion Clasp,1,$0.58,0,$1.82,0,0,0,0,0,0
+01/21/23,97045F35-97F947-C5DED,ProfessorSteg,Cards,Magic,Iconic Masters,Near Mint,Vizkopa Guildmage,1,$0.26,$0.99,0,$0.98,$0.00,$0.15,$0.03,$0.34,$0.52
+01/21/23,97045F35-97F947-C5DED,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Marauding Blight-Priest,1,$0.25,0,$1.50,0,0,0,0,0,0
+01/21/23,97045F35-A8BCC4-C35D7,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Skeleton Shard,1,$0.27,$0.99,$1.26,$0.78,$0.00,$0.12,$0.03,$0.33,$0.48
+01/21/23,97045F35-C3A1EF-4867A,ProfessorSteg,Cards,Magic,Magic 2014 (M14),Near Mint,Sliver Construct,1,$0.25,$0.00,0,$4.20,$0.00,$0.49,$0.13,$0.44,$1.06
+01/21/23,97045F35-C3A1EF-4867A,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Heart Sliver,1,$4.48,0,$5.26,0,0,0,0,0,0
+01/21/23,97045F35-C3A1EF-4867A,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Spined Sliver,1,$0.53,0,0,0,0,0,0,0,0
+01/21/23,97045F35-DDB3A2-EE2C4,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Feast of Blood,3,$0.25,$0.99,$1.74,$1.18,$0.00,$0.17,$0.04,$0.35,$0.56
+01/22/23,97045F35-0A3B21-B2CCA,ProfessorSteg,Cards,Magic,Modern Horizons,Near Mint,Hollowhead Sliver,1,$0.25,$0.99,0,$2.79,$0.00,$0.34,$0.09,$0.40,$0.83
+01/22/23,97045F35-0A3B21-B2CCA,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Clot Sliver,1,$1.25,0,$3.62,0,0,0,0,0,0
+01/22/23,97045F35-0A3B21-B2CCA,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Gemhide Sliver,1,$1.13,0,0,0,0,0,0,0,0
+01/22/23,97045F35-F692F0-416E8,ProfessorSteg,Cards,Magic,Conspiracy,Near Mint,Wrap in Vigor,1,$0.95,$0.99,0,$1.63,$0.00,$0.22,$0.05,$0.36,$0.63
+01/22/23,97045F35-F692F0-416E8,ProfessorSteg,Cards,Magic,Core Set 2021,Near Mint,Jungle Hollow,1,$0.07,0,$2.26,0,0,0,0,0,0
+01/22/23,97045F35-F692F0-416E8,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Ravenform,1,$0.25,0,0,0,0,0,0,0,0
+01/22/23,97045F35-FCD7BC-A2545,ProfessorSteg,Cards,Magic,Battle for Zendikar,Near Mint,Dispel,3,$0.25,$0.99,0,$3.79,$0.00,$0.45,$0.12,$0.43,$1.00
+01/22/23,97045F35-FCD7BC-A2545,ProfessorSteg,Cards,Magic,Fifth Dawn,Near Mint,Mana Geyser,1,$1.90,0,0,0,0,0,0,0,0
+01/22/23,97045F35-FCD7BC-A2545,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Herd Baloth,1,$0.25,0,0,0,0,0,0,0,0
+01/22/23,97045F35-FCD7BC-A2545,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Contagion Clasp,1,$0.58,0,$4.79,0,0,0,0,0,0
+01/22/23,97045F35-FCD7BC-A2545,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Plague Stinger,1,$0.32,0,0,0,0,0,0,0,0
+01/23/23,97045F35-09FFE5-FA2CD,ProfessorSteg,Cards,Magic,Media Promos,Near Mint Foil,Retaliator Griffin,1,$0.36,$0.99,$1.35,$0.85,$0.00,$0.13,$0.03,$0.34,$0.50
+01/23/23,97045F35-94D2B7-D498C,ProfessorSteg,Cards,Magic,Archenemy,Lightly Played,Seething Song,1,$0.99,$0.99,$1.98,$1.39,$0.00,$0.20,$0.04,$0.35,$0.59
+01/23/23,97045F35-E8D75E-5D096,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Makeshift Mannequin,1,$0.27,$0.99,$1.26,$0.78,$0.00,$0.12,$0.03,$0.33,$0.48
+01/24/23,97045F35-07F87D-98B36,ProfessorSteg,Cards,Magic,Timeshifted,Near Mint,Thallid,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/24/23,97045F35-29C597-E209D,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Scurry Oak,3,$0.25,$0.99,$1.74,$1.18,$0.00,$0.17,$0.04,$0.35,$0.56
+01/24/23,97045F35-D7DE8C-866DA,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Copper Myr,1,$2.34,$0.99,$3.33,$2.55,$0.00,$0.31,$0.08,$0.39,$0.78
+01/24/23,97045F35-D14CE8-09480,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Nuisance Engine,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/25/23,97045F35-090827-32F3E,ProfessorSteg,Cards,Magic,Modern Masters 2015,Near Mint,Alloy Myr,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/25/23,97045F35-156625-9AE02,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Otherworldly Gaze,1,$0.30,$0.99,$1.29,$0.79,$0.00,$0.13,$0.03,$0.34,$0.50
+01/25/23,97045F35-DD813D-82C11,ProfessorSteg,Cards,Magic,Duel Decks: Divine vs. Demonic,Near Mint,Angelic Benediction,1,$0.27,$0.99,$1.26,$0.78,$0.00,$0.12,$0.03,$0.33,$0.48
+01/26/23,97045F35-8CEAE9-61FB8,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Aspect of Mongoose,1,$1.84,$0.99,$2.83,$2.12,$0.00,$0.27,$0.07,$0.37,$0.71
+01/27/23,97045F35-09499C-84269,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Throne of Geth,1,$0.25,$0.99,$1.24,,$0.00,$0.00,$0.00,$0.00,
+01/27/23,97045F35-190465-CF952,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Throne of Geth,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/27/23,97045F35-BA86AF-DE4B8,ProfessorSteg,Cards,Magic,Dissension,Near Mint,Protean Hulk,1,$6.29,$0.00,$6.29,$5.09,$0.00,$0.58,$0.16,$0.46,$1.20
+01/27/23,97045F35-BAC957-59421,ProfessorSteg,Cards,Magic,New Phyrexia,Near Mint,Vapor Snag,1,$0.26,$0.99,$1.25,$0.77,$0.00,$0.12,$0.03,$0.33,$0.48
+01/28/23,97045F35-415B9E-A711C,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Sign in Blood,1,$0.30,$0.99,$1.29,$0.79,$0.00,$0.13,$0.03,$0.34,$0.50
+01/28/23,97045F35-537CE1-A30CF,ProfessorSteg,Cards,Magic,Streets of New Capenna,Near Mint,Raffine's Tower (Showcase),1,$8.94,$0.00,$8.94,$7.35,$0.00,$0.83,$0.22,$0.54,$1.59
+01/28/23,97045F35-B6FAEE-6C6E7,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Lodestone Myr,1,$0.35,$0.99,$1.34,$0.84,$0.00,$0.13,$0.03,$0.34,$0.50
+01/28/23,97045F35-DAD77B-6E3F9,ProfessorSteg,Cards,Magic,Eventide,Near Mint,Spitemare,1,$0.30,$0.99,$1.29,$0.80,$0.00,$0.13,$0.03,$0.33,$0.49
+01/28/23,97045F35-F9F90F-82C10,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Lord of the Undead,1,$23.00,$0.00,$23.00,$19.39,$0.00,$2.12,$0.58,$0.91,$3.61
+01/29/23,97045F35-0FB659-A17AB,ProfessorSteg,Cards,Magic,Invasion,Near Mint,Harrow,1,$0.47,$0.99,$1.46,$0.94,$0.00,$0.15,$0.03,$0.34,$0.52
+01/29/23,97045F35-4CEAF6-E3B0A,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Otherworldly Gaze,1,$0.30,$0.99,$1.29,,$0.00,$0.00,$0.00,$0.00,
+01/29/23,97045F35-227DD4-99545,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Otherworldly Gaze,1,$0.30,$0.99,$1.29,,$0.00,$0.00,$0.00,$0.00,
+01/29/23,97045F35-255BE2-FD1E1,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Otherworldly Gaze,1,$0.30,$0.99,$1.29,$0.79,$0.00,$0.13,$0.03,$0.34,$0.50
+01/29/23,97045F35-280C79-D9C87,ProfessorSteg,Cards,Magic,Worldwake,Near Mint,Scrib Nibblers,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+01/29/23,97045F35-6323C6-F4EC2,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Otherworldly Gaze,1,$0.30,$0.99,$1.29,,$0.00,$0.00,$0.00,$0.00,
+01/29/23,97045F35-D95C34-1FABF,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Otherworldly Gaze,1,$0.30,$0.99,$1.29,,$0.00,$0.00,$0.00,$0.00,
+01/29/23,97045F35-F7DBB0-9C659,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Otherworldly Gaze,1,$0.30,$0.99,$1.29,,$0.00,$0.00,$0.00,$0.00,
+01/29/23,97045F35-FAC73C-F7962,ProfessorSteg,Cards,Magic,Archenemy,Lightly Played,Avatar of Woe,1,$2.45,$0.99,$3.44,$2.64,$0.00,$0.33,$0.08,$0.39,$0.80
+01/30/23,97045F35-22C393-9BC00,ProfessorSteg,Cards,Magic,Urza's Saga,Near Mint,Pestilence,1,$0.26,$0.99,$1.25,$0.77,$0.00,$0.12,$0.03,$0.33,$0.48
+01/30/23,97045F35-158A8C-F8B53,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Containment Construct,1,$0.36,$0.99,$1.35,$0.85,$0.00,$0.13,$0.03,$0.34,$0.50
+01/30/23,97045F35-C9E225-05684,ProfessorSteg,Cards,Magic,Magic 2013 (M13),Near Mint,Krenko's Command,3,$0.30,$0.99,$1.89,$1.31,$0.00,$0.19,$0.04,$0.35,$0.58
+02/01/23,97045F35-3B4A1B-E3DDA,ProfessorSteg,Cards,Magic,Worldwake,Near Mint,Scrib Nibblers,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+02/02/23,97045F35-79E52F-A2C72,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Thrummingbird,1,$0.26,$0.99,$1.25,$0.77,$0.00,$0.12,$0.03,$0.33,$0.48
+02/02/23,97045F35-277C6F-648C9,ProfessorSteg,Cards,Magic,Khans of Tarkir,Near Mint,Tomb of the Spirit Dragon,1,$0.41,$0.99,$1.40,$0.89,$0.00,$0.14,$0.03,$0.34,$0.51
+02/02/23,97045F35-697BB7-877B2,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint Foil,Dream Trawler,1,$0.37,$0.99,$1.36,$0.87,$0.00,$0.13,$0.03,$0.33,$0.49
+02/03/23,97045F35-9B421A-6CC36,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,"Purphoros, Bronze-Blooded",1,$2.28,$0.99,$3.27,$2.49,$0.00,$0.31,$0.08,$0.39,$0.78
+02/03/23,97045F35-40D2FC-34C0D,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Play with Fire,1,$1.73,$0.99,$2.72,$2.03,$0.00,$0.26,$0.06,$0.37,$0.69
+02/05/23,97045F35-3D2972-7E7FF,ProfessorSteg,Cards,Magic,Fallen Empires,Near Mint,Spore Flower,1,$0.27,$0.99,$1.26,$0.78,$0.00,$0.12,$0.03,$0.33,$0.48
+02/05/23,97045F35-BFCB44-EA84F,ProfessorSteg,Cards,Magic,Fallen Empires,Near Mint,Spore Flower,1,$0.27,$0.99,$1.26,,$0.00,$0.00,$0.00,$0.00,
+02/06/23,97045F35-85BEDB-06326,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Murktide Regent,1,$12.00,$0.00,$12.00,$9.97,$0.00,$1.11,$0.30,$0.62,$2.03
+02/06/23,97045F35-503617-69559,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Broodstar,1,$0.54,$0.99,$0.00,$0.00,$1.56,$0.15,$0.03,$0.34,$0.00
+02/07/23,97045F35-30D979-C6F39,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Metallic Sliver,2,$0.38,$0.99,$1.75,$1.19,$0.00,$0.17,$0.04,$0.35,$0.56
+02/07/23,97045F35-84E9B1-9F80B,ProfessorSteg,Cards,Magic,Duel Decks: Blessed vs. Cursed,Near Mint,Falkenrath Noble,1,$0.27,$0.99,$1.26,$0.78,$0.00,$0.12,$0.03,$0.33,$0.48
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Temple of the Dragon Queen (Dungeon Module),1,$0.26,$0.00,0,$4.58,$0.00,$0.53,$0.14,$0.45,$1.12
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Wizard Class,1,$1.65,0,0,0,0,0,0,0,0
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Nesting Grounds,1,$1.51,0,0,0,0,0,0,0,0
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Hidden Strings,1,$0.25,0,0,0,0,0,0,0,0
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Duel Decks: Jace vs. Vraska,Near Mint,Archaeomancer,1,$0.25,0,$5.70,0,0,0,0,0,0
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Mercadian Masques,Near Mint,War Tax,1,$0.76,0,0,0,0,0,0,0,0
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Shadows over Innistrad,Near Mint,Trail of Evidence,1,$0.27,0,0,0,0,0,0,0,0
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Temporal Isolation,1,$0.25,0,0,0,0,0,0,0,0
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Visions,Near Mint,Righteous Aura,1,$0.25,0,0,0,0,0,0,0,0
+02/07/23,97045F35-B90645-DB1A3,ProfessorSteg,Cards,Magic,Worldwake,Near Mint,Lightkeeper of Emeria,1,$0.25,0,0,0,0,0,0,0,0
+02/07/23,97045F35-E4275C-17976,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Volcanic Fallout,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+02/08/23,97045F35-9CCAF6-645C7,ProfessorSteg,Cards,Magic,Ikoria: Lair of Behemoths,Near Mint,Parcelbeast,1,$0.26,$0.99,$1.25,$0.77,$0.00,$0.12,$0.03,$0.33,$0.48
+02/08/23,97045F35-CE8B4F-2A3FB,ProfessorSteg,Cards,Magic,Fifth Dawn,Near Mint,Ferropede,1,$0.38,$0.99,$1.37,$0.87,$0.00,$0.13,$0.03,$0.34,$0.50
+02/08/23,97045F35-D3BCCC-C66C3,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Mirror Shield,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+02/09/23,97045F35-4B7B73-E47E0,ProfessorSteg,Cards,Magic,Ikoria: Lair of Behemoths,Near Mint,Parcelbeast,1,$0.26,$0.99,$1.25,$0.77,$0.00,$0.12,$0.03,$0.33,$0.48
+02/09/23,97045F35-75C4F3-886D1,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Reassembling Skeleton,1,$0.49,$0.99,$1.48,$0.96,$0.00,$0.15,$0.03,$0.34,$0.52
+02/09/23,97045F35-E43F01-EA6A3,ProfessorSteg,Cards,Magic,Lorwyn,Near Mint,Prowess of the Fair,1,$0.36,$0.99,$1.35,$0.85,$0.00,$0.13,$0.03,$0.34,$0.50
+02/10/23,97045F35-76ED22-0373B,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Shriekmaw,1,$0.33,$0.99,$1.32,$0.82,$0.00,$0.13,$0.03,$0.34,$0.50
+02/10/23,97045F35-ABAE47-98AF4,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Outland Liberator (Showcase),2,$0.25,$0.99,$1.49,$0.97,$0.00,$0.15,$0.03,$0.34,$0.52
+02/11/23,97045F35-96F6D5-78AA3,ProfessorSteg,Cards,Magic,Throne of Eldraine,Near Mint,Witch's Cottage,1,$0.32,$0.99,$1.31,$0.81,$0.00,$0.13,$0.03,$0.34,$0.50
+02/12/23,97045F35-078708-9ACC4,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Scattershot Archer,2,$0.50,$0.99,$1.99,$1.40,$0.00,$0.20,$0.04,$0.35,$0.59
+02/12/23,97045F35-FECFE4-437E2,ProfessorSteg,Cards,Magic,Innistrad,Near Mint,Invisible Stalker,1,$0.54,$0.99,$1.53,$1.01,$0.00,$0.15,$0.03,$0.34,$0.52
+02/13/23,97045F35-772A9D-9AAC5,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Swamp,1,$1.23,$0.99,$2.22,$1.60,$0.00,$0.21,$0.05,$0.36,$0.62
+02/13/23,97045F35-D5FAF2-5C44F,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Steady Progress,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+02/13/23,97045F35-D15A26-E84F5,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Heliod's Intervention,1,$3.73,$0.00,0,$4.36,$0.00,$0.50,$0.14,$0.45,$1.09
+02/13/23,97045F35-D15A26-E84F5,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Aspect of Mongoose,1,$1.72,0,$5.45,0,0,0,0,0,0
+02/13/23,97045F35-F52FE9-0372B,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Vedalken Engineer,1,$0.34,$0.99,$1.33,$0.83,$0.00,$0.13,$0.03,$0.34,$0.50
+02/14/23,97045F35-26424A-EB95B,ProfessorSteg,Cards,Pokemon,Jungle,Near Mint 1st Edition Holofoil,Victreebel (14),1,$43.98,$0.00,$43.98,$37.34,$0.00,$4.07,$1.10,$1.47,$6.64
+02/15/23,97045F35-5523BF-8CA38,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Path to Exile,1,$2.74,$0.99,$3.73,$2.89,$0.00,$0.35,$0.09,$0.40,$0.84
+02/15/23,97045F35-7427FB-F6603,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi,Near Mint Unlimited,Card Destruction,1,$0.96,$0.99,$1.95,$1.37,$0.00,$0.19,$0.04,$0.35,$0.58
+02/15/23,97045F35-A09905-90F32,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Battle Ox,1,$1.13,$0.99,$4.03,$3.14,$0.00,$0.38,$0.10,$0.41,$0.89
+02/15/23,97045F35-A09905-90F32,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Koumori Dragon,1,$0.81,0,0,0,0,0,0,0,0
+02/15/23,97045F35-A09905-90F32,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba,Near Mint Unlimited,Ryu-Kishin,1,$1.10,0,0,0,0,0,0,0,0
+02/15/23,97045F35-F7B32B-B7233,ProfessorSteg,Cards,Magic,Worldwake,Near Mint,Ricochet Trap,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Flumph,1,$0.44,$0.00,0,$4.03,$0.00,$0.46,$0.13,$0.44,$1.03
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Betrayers of Kamigawa,Near Mint,Kaijin of the Vanishing Touch,1,$0.25,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Telemin Performance,1,$0.42,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Eldritch Moon,Near Mint,Graf Harvest,1,$0.29,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Eternal Masters,Near Mint,Glacial Wall,1,$0.25,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Mesmeric Sliver,1,$0.25,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Mirrodin,Near Mint,Steel Wall,1,$0.29,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Return to Ravnica,Near Mint,Hover Barrier,1,$0.30,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Stalwart Shield-Bearers,1,$0.42,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Shards of Alara,Near Mint,Sigiled Paladin,1,$0.27,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Stronghold,Near Mint,Wall of Tears,1,$1.03,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Throne of Eldraine,Near Mint,Crashing Drawbridge,1,$0.32,0,$5.06,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Throne of Eldraine,Near Mint,Foulmire Knight (Showcase),1,$0.25,0,0,0,0,0,0,0,0
+02/16/23,97045F35-8CBB56-D7D96,ProfessorSteg,Cards,Magic,Urza's Destiny,Near Mint,Wall of Glare,1,$0.28,0,0,0,0,0,0,0,0
+02/16/23,97045F35-C97952-74C19,ProfessorSteg,Cards,Magic,Eventide,Near Mint,Cauldron Haze,1,$0.72,$0.99,$1.71,$1.17,$0.00,$0.16,$0.04,$0.34,$0.54
+02/17/23,97045F35-A57C5B-C626D,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Terminate,1,$0.39,$0.99,0,$1.09,$0.00,$0.16,$0.04,$0.34,$0.54
+02/17/23,97045F35-A57C5B-C626D,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Bottle Golems,1,$0.25,0,$1.63,0,0,0,0,0,0
+02/17/23,97045F35-FDC9FB-2D4F2,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Steady Progress,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+02/18/23,97045F35-7CF11A-21FBF,ProfessorSteg,Cards,Magic,Shadows over Innistrad,Near Mint,Essence Flux,1,$1.48,$0.99,$2.47,$1.81,$0.00,$0.23,$0.06,$0.37,$0.66
+02/18/23,97045F35-917BDD-CDE30,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Aura of Silence,1,$5.44,$0.00,$5.97,$4.81,$0.00,$0.55,$0.15,$0.46,$1.16
+02/18/23,97045F35-917BDD-CDE30,ProfessorSteg,Cards,Magic,Mirrodin Besieged,Near Mint,Core Prowler,1,$0.53,0,0,0,0,0,0,0,0
+02/18/23,97045F35-5061EF-7FF73,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Burning Inquiry,1,$1.35,$0.99,$2.34,$1.70,$0.00,$0.23,$0.05,$0.36,$0.64
+02/20/23,97045F35-94D42D-1BC97,ProfessorSteg,Cards,Magic,Shadowmoor,Near Mint,Devoted Druid,4,$0.50,$0.99,$2.99,$2.25,$0.00,$0.29,$0.07,$0.38,$0.74
+02/20/23,97045F35-360FA1-5A221,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Corpse Connoisseur,1,$0.35,$0.99,$1.34,$0.85,$0.00,$0.13,$0.03,$0.33,$0.49
+02/20/23,97045F35-CA811F-DBA35,ProfessorSteg,Cards,Magic,Portal,Lightly Played,Exhaustion,1,$0.90,$0.99,$0.00,$0.00,$1.95,$0.19,$0.04,$0.35,$0.00
+02/21/23,97045F35-B2D62B-7B7ED,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Crypt Incursion,2,$0.27,$0.99,$1.53,$1.01,$0.00,$0.15,$0.03,$0.34,$0.52
+02/22/23,97045F35-DCCA45-468D6,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Dungeon Descent,1,$0.18,$0.99,$1.17,$0.70,$0.00,$0.12,$0.02,$0.33,$0.47
+02/23/23,97045F35-454B9E-277C0,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Orb of Dragonkind,1,$1.35,$0.99,$2.34,$1.70,$0.00,$0.23,$0.05,$0.36,$0.64
+02/23/23,97045F35-D0A9BC-D0950,ProfessorSteg,Cards,Magic,Throne of Eldraine,Near Mint,Deafening Silence,1,$1.37,$0.99,$2.36,$1.72,$0.00,$0.23,$0.05,$0.36,$0.64
+02/23/23,97045F35-F10C5B-7D47E,ProfessorSteg,Cards,Magic,Hour of Devastation,Near Mint,Survivors' Encampment,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+02/24/23,97045F35-5A65E9-3F553,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Steady Progress,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+02/25/23,97045F35-92F686-D2E49,ProfessorSteg,Cards,Magic,Dominaria United,Near Mint Foil,"Elas il-Kor, Sadistic Pilgrim (Textured Foil)",1,$2.00,$0.99,$2.99,$2.25,$0.00,$0.29,$0.07,$0.38,$0.74
+02/26/23,97045F35-A05F88-CBFF7,ProfessorSteg,Cards,Magic,Duel Decks: Jace vs. Vraska,Near Mint,Control Magic,1,$0.45,$0.99,$1.44,,$0.00,$0.00,$0.00,$0.00,
+02/26/23,97045F35-B0D827-EDE32,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Steady Progress,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+03/17/23,97045F35-BF3EC9-3A85D,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint Foil,Cleric Class,1,$1.51,$0.99,$2.50,$1.84,$0.00,$0.24,$0.06,$0.36,$0.66
+03/18/23,97045F35-B37082-F9223,ProfessorSteg,Cards,Magic,Core Set 2021,Near Mint,Rugged Highlands,1,$0.06,$0.99,$1.05,$0.59,$0.00,$0.11,$0.02,$0.33,$0.46
+03/20/23,97045F35-3C06E8-F9B00,ProfessorSteg,Cards,Magic,Gatecrash,Lightly Played,Holy Mantle,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+03/20/23,97045F35-04195E-89BAE,ProfessorSteg,Cards,Magic,Ikoria: Lair of Behemoths,Near Mint,Skull Prophet,1,$0.28,$0.99,$1.27,$0.78,$0.00,$0.12,$0.03,$0.34,$0.49
+03/21/23,97045F35-3A994D-D181E,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Elven Ambush,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+03/21/23,97045F35-3C51B5-F5855,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Spirit Loop,1,$0.87,$0.99,$1.86,$1.29,$0.00,$0.18,$0.04,$0.35,$0.57
+03/21/23,97045F35-ED45F6-59B0A,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Stalwart Shield-Bearers,1,$0.38,$0.99,$1.65,$1.11,$0.00,$0.16,$0.04,$0.34,$0.54
+03/21/23,97045F35-ED45F6-59B0A,ProfessorSteg,Cards,Magic,Urza's Destiny,Near Mint,Wall of Glare,1,$0.28,0,0,0,0,0,0,0,0
+03/21/23,97045F35-FABA78-1631E,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Power Conduit,1,$0.75,$0.99,$1.74,$1.18,$0.00,$0.17,$0.04,$0.35,$0.56
+03/22/23,97045F35-1256E7-DC6C5,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Spirit Loop,1,$0.87,$0.99,$1.86,$1.29,$0.00,$0.18,$0.04,$0.35,$0.57
+03/22/23,97045F35-D6D48B-47A30,ProfessorSteg,Cards,Magic,Avacyn Restored,Near Mint,Cloudshift,1,$0.41,$0.99,$1.40,$1.40,$1.53,$0.14,$0.03,$0.34,$0.00
+03/23/23,97045F35-43B768-21B42,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Explosive Vegetation,1,$0.41,$0.99,$1.65,$1.11,$0.00,$0.16,$0.04,$0.34,$0.54
+03/23/23,97045F35-43B768-21B42,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Rampant Growth,1,$0.25,0,0,0,0,0,0,0,0
+03/23/23,97045F35-740C00-CBC53,ProfessorSteg,Cards,Magic,Alara Reborn,Near Mint,Filigree Angel,1,$0.21,$0.99,$1.20,$0.73,$0.00,$0.11,$0.03,$0.33,$0.47
+03/23/23,97045F35-393888-49B1C,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Elven Ambush,2,$0.25,$0.99,$1.49,$0.97,$0.00,$0.15,$0.03,$0.34,$0.52
+03/23/23,97045F35-B65A7B-844FC,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Destiny Spinner,1,$1.75,$0.99,$2.74,$2.04,$0.00,$0.27,$0.06,$0.37,$0.70
+03/23/23,97045F35-DC1746-9E94D,ProfessorSteg,Cards,Magic,Magic 2012 (M12),Near Mint,Goblin Grenade,1,$0.49,$0.99,$1.48,$0.96,$0.00,$0.15,$0.03,$0.34,$0.52
+03/23/23,97045F35-F9271A-C4417,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Lightly Played,Overrun,1,$0.25,$0.99,0,$1.42,$0.00,$0.19,$0.05,$0.35,$0.59
+03/23/23,97045F35-F9271A-C4417,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Overrun,2,$0.26,0,0,0,0,0,0,0,0
+03/23/23,97045F35-F9271A-C4417,ProfessorSteg,Cards,Magic,Torment,Near Mint,Acorn Harvest,1,$0.25,0,$2.01,0,0,0,0,0,0
+03/25/23,97045F35-62DEC2-32CC9,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Aqua Madoor,1,$0.32,$0.99,$1.48,$0.96,$0.00,$0.15,$0.03,$0.34,$0.52
+03/25/23,97045F35-62DEC2-32CC9,ProfessorSteg,Cards,YuGiOh,Starter Deck: Pegasus,Near Mint Unlimited,Red Archery Girl,1,$0.17,0,0,0,0,0,0,0,0
+03/26/23,97045F35-49C790-0478A,ProfessorSteg,Cards,Magic,Planar Chaos,Near Mint,Psychotrope Thallid,1,$4.20,$0.99,$5.19,$4.14,$0.00,$0.49,$0.12,$0.44,$1.05
+03/26/23,97045F35-FF4E20-0425F,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Golem Foundry,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+03/27/23,97045F35-4EB461-EAFE3,ProfessorSteg,Cards,Magic,Urza's Destiny,Near Mint,Yawgmoth's Bargain,1,$15.00,$0.00,$15.00,$12.53,$0.00,$1.38,$0.38,$0.71,$2.47
+03/27/23,97045F35-660B08-2833A,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Grand Master of Flowers (Borderless),1,$0.69,$0.00,0,$4.31,$0.00,$0.50,$0.13,$0.44,$1.07
+03/27/23,97045F35-660B08-2833A,ProfessorSteg,Cards,Magic,Planar Chaos,Near Mint,Psychotrope Thallid,1,$4.20,0,0,0,0,0,0,0,0
+03/27/23,97045F35-660B08-2833A,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Verdant Force,1,$0.38,0,0,0,0,0,0,0,0
+03/27/23,97045F35-660B08-2833A,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Eidolon of Obstruction,1,$0.11,0,$5.38,0,0,0,0,0,0
+03/29/23,97045F35-0A6297-BF4CC,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Asha's Favor,1,$0.28,$0.99,$1.27,$0.79,$0.00,$0.12,$0.03,$0.33,$0.48
+03/29/23,97045F35-73E5D2-DB9CE,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Forbidding Watchtower,1,$0.58,$0.00,0,$6.37,$0.00,$0.72,$0.20,$0.51,$1.43
+03/29/23,97045F35-73E5D2-DB9CE,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Den of the Bugbear (Dungeon Module),1,$7.22,0,$7.80,0,0,0,0,0,0
+03/29/23,97045F35-5164D2-8DD42,ProfessorSteg,Cards,Magic,Conspiracy: Take the Crown,Near Mint,Besmirch,1,$0.84,$0.99,$1.83,$1.26,$0.00,$0.18,$0.04,$0.35,$0.57
+03/29/23,97045F35-CE3F97-741A0,ProfessorSteg,Cards,Magic,Eternal Masters,Near Mint,Tragic Slip,1,$0.34,$0.99,$1.33,$0.83,$0.00,$0.13,$0.03,$0.34,$0.50
+03/29/23,97045F35-DB64DA-1536C,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Ravenform,3,$0.25,$0.99,$1.74,$1.18,$0.00,$0.17,$0.04,$0.35,$0.56
+03/30/23,97045F35-9F38CE-1324C,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Terminate,1,$0.39,$0.99,$1.38,$0.87,$0.00,$0.14,$0.03,$0.34,$0.51
+03/30/23,97045F35-AEEE17-27327,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,No Rest for the Wicked,1,$0.44,$0.99,$1.43,$0.92,$0.00,$0.14,$0.03,$0.34,$0.51
+03/30/23,97045F35-D70BEA-1CFA4,ProfessorSteg,Cards,Magic,Avacyn Restored,Near Mint,Cloudshift,1,$0.41,$0.99,$1.40,$0.89,$0.00,$0.14,$0.03,$0.34,$0.51
+03/31/23,97045F35-0DF9AC-E729F,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Clockspinning,1,$0.27,$0.99,$1.26,$0.78,$0.00,$0.12,$0.03,$0.33,$0.48
+03/31/23,97045F35-71DB92-D1CA7,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Thran Dynamo,1,$3.92,$0.99,$4.91,$3.89,$0.00,$0.46,$0.12,$0.44,$1.02
+04/03/23,97045F35-5E3C04-FBA02,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi,Near Mint Unlimited,Dark Hole,1,$0.48,$0.99,$1.47,$0.95,$0.00,$0.15,$0.03,$0.34,$0.52
+04/03/23,97045F35-7062EE-3A829,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Pestilence Demon,1,$0.65,$0.99,$1.64,$1.10,$0.00,$0.16,$0.04,$0.34,$0.54
+04/04/23,97045F35-82C30D-0FD9E,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,No Rest for the Wicked,1,$0.46,$0.99,$1.45,$0.94,$0.00,$0.14,$0.03,$0.34,$0.51
+04/04/23,97045F35-EF8A9C-3E909,ProfessorSteg,Cards,Magic,Classic Sixth Edition,Near Mint,Vitalize,1,$0.91,$0.99,$1.90,$1.32,$0.00,$0.19,$0.04,$0.35,$0.58
+04/05/23,97045F35-7D91D9-74736,ProfessorSteg,Cards,Magic,Mirrodin Besieged,Near Mint,Victory's Herald,1,$0.22,$0.99,$1.21,$0.73,$0.00,$0.12,$0.03,$0.33,$0.48
+04/06/23,97045F35-B16918-F27F5,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Taurean Mauler,1,$0.92,$0.99,$1.91,$1.33,$0.00,$0.19,$0.04,$0.35,$0.58
+04/06/23,97045F35-C0AEE6-7A8BC,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint,Bellowing Tanglewurm,1,$0.56,$0.99,$2.32,$1.68,$0.00,$0.23,$0.05,$0.36,$0.64
+04/06/23,97045F35-C0AEE6-7A8BC,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Hydra's Growth,1,$0.77,0,0,0,0,0,0,0,0
+04/06/23,97045F35-C2BD55-F9F9D,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi,Near Mint Unlimited,Summoned Skull,1,$0.99,$0.99,$0.00,$0.00,$2.04,$0.20,$0.04,$0.35,$0.00
+04/09/23,97045F35-3F5986-A8ABF,ProfessorSteg,Cards,Magic,Hero's Path Promos,Near Mint,Lash of the Tyrant,2,$10.95,$0.00,$21.90,$18.44,$0.00,$2.02,$0.55,$0.89,$3.46
+04/09/23,97045F35-B60F52-90B0A,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Gemhide Sliver,1,$0.48,$0.99,$1.47,$0.95,$0.00,$0.15,$0.03,$0.34,$0.52
+04/10/23,97045F35-0F0568-769DD,ProfessorSteg,Cards,Magic,Archenemy,Moderately Played,Chameleon Colossus,1,$0.64,$0.99,$1.63,$1.09,$0.00,$0.16,$0.04,$0.34,$0.54
+04/11/23,97045F35-AB1CC2-342B2,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi,Near Mint Unlimited,Curse of Dragon,1,$0.96,$0.99,$1.95,$1.37,$0.00,$0.19,$0.04,$0.35,$0.58
+04/15/23,97045F35-C73048-74921,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Extractor Demon,1,$0.19,$0.99,$1.18,$0.71,$0.00,$0.12,$0.02,$0.33,$0.47
+04/21/23,97045F35-95D530-3E355,ProfessorSteg,Cards,Magic,Legions,Near Mint,Blade Sliver,1,$0.66,$0.99,$1.65,$1.11,$0.00,$0.16,$0.04,$0.34,$0.54
+04/22/23,97045F35-3DA13C-B1420,ProfessorSteg,Cards,Magic,Commander: Adventures in the Forgotten Realms,Near Mint,Abundant Growth,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+04/23/23,97045F35-9478EE-640D3,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Twisted Nightmares,Moderately Played 1st Edition,Santa Claws,1,$10.99,$0.00,$10.99,$9.11,$0.00,$1.02,$0.27,$0.59,$1.88
+04/24/23,97045F35-4F6A3E-2B92F,ProfessorSteg,Cards,YuGiOh,Starter Deck: Link Strike,Moderately Played 1st Edition,Battle Fader,1,$0.41,$0.99,$2.52,$1.85,$0.00,$0.24,$0.06,$0.37,$0.67
+04/24/23,97045F35-4F6A3E-2B92F,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Lightly Played Unlimited,Book of Moon,2,$0.56,0,0,0,0,0,0,0,0
+04/24/23,97045F35-B6FA4E-9C139,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Resourceful Defense,1,$4.80,$0.99,$5.79,$4.65,$0.00,$0.54,$0.14,$0.46,$1.14
+04/25/23,97045F35-A2F21F-01D81,ProfessorSteg,Cards,YuGiOh,Collector's Boxes,Lightly Played Limited,Blue-Eyes White Dragon,1,$1.96,$0.00,$5.66,$4.54,$0.00,$0.53,$0.14,$0.45,$1.12
+04/25/23,97045F35-A2F21F-01D81,ProfessorSteg,Cards,YuGiOh,Duelist Pack: Yugi,Near Mint Unlimited,Dark Magician Girl,1,$1.69,0,0,0,0,0,0,0,0
+04/25/23,97045F35-A2F21F-01D81,ProfessorSteg,Cards,YuGiOh,Legendary Decks II,Near Mint Limited,Dark Burning Magic,1,$2.01,0,0,0,0,0,0,0,0
+04/25/23,97045F35-C72AC1-4F32C,ProfessorSteg,Cards,YuGiOh,Legendary Decks II,Near Mint Limited,Dark Burning Attack,1,$0.66,$0.99,$1.65,$1.11,$0.00,$0.16,$0.04,$0.34,$0.54
+04/26/23,97045F35-3FBF43-EC3D3,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Match of the Millennium,Moderately Played 1st Edition,Charging Gaia the Fierce Knight,1,$2.00,$0.99,$2.99,$2.25,$0.00,$0.29,$0.07,$0.38,$0.74
+04/26/23,97045F35-4B0C1C-D2A0A,ProfessorSteg,Cards,YuGiOh,Structure Deck: Machine Reactor,Heavily Played Unlimited,"Maxx ""C""",1,$10.71,$0.00,$10.71,$8.86,$0.00,$0.99,$0.27,$0.59,$1.85
+04/26/23,97045F35-203C74-E4BFF,ProfessorSteg,Cards,Magic,10th Edition,Lightly Played,Denizen of the Deep,1,$0.18,$0.00,0,$4.01,$0.00,$0.46,$0.13,$0.44,$1.03
+04/26/23,97045F35-203C74-E4BFF,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Diabolic Tutor,2,$0.91,0,0,0,0,0,0,0,0
+04/26/23,97045F35-203C74-E4BFF,ProfessorSteg,Cards,Magic,Battle for Zendikar,Near Mint,Spawning Bed,3,$0.40,0,0,0,0,0,0,0,0
+04/26/23,97045F35-203C74-E4BFF,ProfessorSteg,Cards,Magic,Commander Anthology,Near Mint,Thornweald Archer,1,$0.54,0,0,0,0,0,0,0,0
+04/26/23,97045F35-203C74-E4BFF,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Magus of the Abyss,1,$0.23,0,0,0,0,0,0,0,0
+04/26/23,97045F35-203C74-E4BFF,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Blessed Respite,2,$0.40,0,$5.04,0,0,0,0,0,0
+04/26/23,97045F35-203C74-E4BFF,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Fertilid,1,$0.15,0,0,0,0,0,0,0,0
+04/26/23,97045F35-203C74-E4BFF,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Rumbling Slum,1,$0.12,0,0,0,0,0,0,0,0
+04/27/23,97045F35-3D3D06-DEE75,ProfessorSteg,Cards,YuGiOh,Structure Deck: Blaze of Destruction,Heavily Played 1st Edition,Pot of Greed,1,$1.49,$0.99,$2.48,$1.82,$0.00,$0.24,$0.06,$0.36,$0.66
+04/28/23,97045F35-96B2E3-A2790,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Fertile Ground,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+04/28/23,97045F35-512382-B7EEB,ProfessorSteg,Cards,Magic,Mirage,Near Mint,Final Fortune,1,$18.25,$0.00,$0.00,$0.00,$19.71,$1.68,$0.46,$0.79,$0.00
+04/29/23,97045F35-ED8202-8AB53,ProfessorSteg,Cards,YuGiOh,Starter Deck: Link Strike,Moderately Played 1st Edition,Battle Fader,2,$0.41,$0.99,$1.81,$1.24,$0.00,$0.18,$0.04,$0.35,$0.57
+05/01/23,97045F35-BDC042-3A3A0,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Island,5,$1.13,$0.00,$5.65,$4.54,$0.00,$0.52,$0.14,$0.45,$1.11
+05/02/23,97045F35-BE87E8-B810B,ProfessorSteg,Cards,Magic,Journey Into Nyx,Near Mint,Chariot of Victory,1,$0.46,$0.99,$1.45,$0.94,$0.00,$0.14,$0.03,$0.34,$0.51
+05/03/23,97045F35-82B268-27B8F,ProfessorSteg,Cards,Magic,March of the Machine: Multiverse Legends,Near Mint,"Ragavan, Nimble Pilferer",1,$52.77,$0.00,$52.77,$44.87,$0.00,$4.88,$1.32,$1.70,$7.90
+05/04/23,97045F35-702CD4-9AAD9,ProfessorSteg,Cards,YuGiOh,Rise of Destiny,Moderately Played 1st Edition,A-Team: Trap Disposal Unit,1,$0.08,$0.99,$1.07,$0.61,$0.00,$0.11,$0.02,$0.33,$0.46
+05/08/23,97045F35-564B07-8A795,ProfessorSteg,Cards,YuGiOh,Structure Deck: Dinosmasher's Fury,Moderately Played 1st Edition,Painful Decision,1,$0.86,$0.99,$1.85,$1.28,$0.00,$0.18,$0.04,$0.35,$0.57
+05/09/23,97045F35-0012B5-700FA,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Match of the Millennium,Moderately Played 1st Edition,Spiral Spear Strike,1,$1.45,$0.99,$2.44,$1.78,$0.00,$0.23,$0.06,$0.37,$0.66
+05/09/23,97045F35-8100BB-57757,ProfessorSteg,Cards,YuGiOh,Structure Deck: Dinosmasher's Fury,Moderately Played 1st Edition,Souleating Oviraptor,1,$1.16,$0.99,$2.15,$1.53,$0.00,$0.21,$0.05,$0.36,$0.62
+05/10/23,97045F35-3DAC84-CBF6B,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Patchwork Automaton,1,$0.46,$0.99,$1.45,,$0.00,$0.00,$0.00,$0.00,
+05/10/23,97045F35-C93180-3C948,ProfessorSteg,Cards,YuGiOh,Duelist Pack: Kaiba,Lightly Played Unlimited,Polymerization,1,$0.68,$0.99,$1.67,$1.13,$0.00,$0.16,$0.04,$0.34,$0.54
+05/10/23,97045F35-E0FF4A-0C629,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Patchwork Automaton,1,$0.46,$0.99,$1.45,$0.94,$0.00,$0.14,$0.03,$0.34,$0.51
+05/11/23,97045F35-2EFBCF-993CE,ProfessorSteg,Cards,YuGiOh,Collector's Boxes,Lightly Played Limited,Blue-Eyes White Dragon,1,$1.31,$0.00,$13.85,$11.56,$5.75,$1.77,$0.48,$0.82,$2.29
+05/11/23,97045F35-2EFBCF-993CE,ProfessorSteg,Cards,YuGiOh,Duelist Pack: Yugi,Lightly Played Unlimited,Summoned Skull,1,$1.23,0,0,0,0,0,0,0,0
+05/11/23,97045F35-2EFBCF-993CE,ProfessorSteg,Cards,YuGiOh,Legendary Decks II,Lightly Played Limited,Token: Joey,1,$0.99,0,0,0,0,0,0,0,0
+05/11/23,97045F35-2EFBCF-993CE,ProfessorSteg,Cards,YuGiOh,Legendary Decks II,Lightly Played Limited,Token: Kaiba,1,$1.78,0,0,0,0,0,0,0,0
+05/11/23,97045F35-2EFBCF-993CE,ProfessorSteg,Cards,YuGiOh,Legendary Decks II,Lightly Played Limited,Token: Yugi,1,$0.88,0,0,0,0,0,0,0,0
+05/11/23,97045F35-2EFBCF-993CE,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba Reloaded,Lightly Played Unlimited,Blue-Eyes White Dragon (UTR),2,$2.98,0,0,0,0,0,0,0,0
+05/11/23,97045F35-2EFBCF-993CE,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Lightly Played Unlimited,Dark Magician (UTR),3,$2.34,0,0,0,0,0,0,0,0
+05/11/23,97045F35-504FBE-6F70F,ProfessorSteg,Cards,Magic,9th Edition,Near Mint,Glorious Anthem,1,$0.27,$0.00,0,$4.48,$0.00,$0.51,$0.14,$0.44,$1.09
+05/11/23,97045F35-504FBE-6F70F,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Mobilization,1,$0.97,0,0,0,0,0,0,0,0
+05/11/23,97045F35-504FBE-6F70F,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Rogue Class,1,$1.70,0,0,0,0,0,0,0,0
+05/11/23,97045F35-504FBE-6F70F,ProfessorSteg,Cards,Magic,Alara Reborn,Near Mint,Predatory Advantage,1,$0.24,0,0,0,0,0,0,0,0
+05/11/23,97045F35-504FBE-6F70F,ProfessorSteg,Cards,Magic,Avacyn Restored,Near Mint,Cloudshift,1,$0.40,0,0,0,0,0,0,0,0
+05/11/23,97045F35-504FBE-6F70F,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Martial Coup,1,$0.68,0,0,0,0,0,0,0,0
+05/11/23,97045F35-504FBE-6F70F,ProfessorSteg,Cards,Magic,Future Sight,Near Mint,Angel of Salvation,1,$0.22,0,$5.57,0,0,0,0,0,0
+05/11/23,97045F35-504FBE-6F70F,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint Foil,Carnifex Demon,1,$1.09,0,0,0,0,0,0,0,0
+05/12/23,97045F35-F90388-12122,ProfessorSteg,Cards,Magic,Duel Decks: Jace vs. Vraska,Near Mint,Control Magic,1,$0.46,$0.99,$1.45,$0.94,$0.00,$0.14,$0.03,$0.34,$0.51
+05/14/23,97045F35-DAA248-1EB4F,ProfessorSteg,Cards,YuGiOh,Yu-Gi-Oh! Video Game Promotional Cards,Near Mint Limited,Perfectly Ultimate Great Moth (The Sacred Cards),1,$6.18,$0.00,$6.18,$4.98,$0.00,$0.58,$0.15,$0.47,$1.20
+05/16/23,97045F35-560925-2D3D4,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Match of the Millennium,Moderately Played 1st Edition,Illusionist Faceless Magician,1,$0.50,$0.99,0,$1.31,$0.00,$0.19,$0.04,$0.35,$0.58
+05/16/23,97045F35-560925-2D3D4,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Twisted Nightmares,Moderately Played 1st Edition,Dark Necrofear,1,$0.40,0,$1.89,0,0,0,0,0,0
+05/18/23,97045F35-7B86BC-0B7E5,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Twisted Nightmares,Moderately Played 1st Edition,Legendary Fiend,1,$0.30,$0.99,$1.29,$0.80,$0.00,$0.13,$0.03,$0.33,$0.49
+05/18/23,97045F35-A956F8-39E75,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Moderately Played Unlimited,Dark Magician Girl,1,$0.48,$0.99,$1.47,$0.95,$0.00,$0.15,$0.03,$0.34,$0.52
+05/21/23,97045F35-6E6AF6-48FAA,ProfessorSteg,Cards,Magic,Dissension,Near Mint,Wakestone Gargoyle,1,$0.24,$0.99,$1.23,$0.75,$0.00,$0.12,$0.03,$0.33,$0.48
+05/22/23,97045F35-7D385F-7DB39,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Match of the Millennium,Moderately Played 1st Edition,Black Luster Soldier,1,$1.00,$0.99,$1.99,$1.40,$0.00,$0.20,$0.04,$0.35,$0.59
+05/23/23,97045F35-6E5251-D9E0F,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Match of the Millennium,Heavily Played 1st Edition,Celtic Guardian,1,$0.40,$0.99,0,$3.05,$0.00,$0.37,$0.09,$0.40,$0.86
+05/23/23,97045F35-6E5251-D9E0F,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Match of the Millennium,Heavily Played 1st Edition,Gaia The Fierce Knight,1,$1.00,0,0,0,0,0,0,0,0
+05/23/23,97045F35-6E5251-D9E0F,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Match of the Millennium,Lightly Played 1st Edition,Black Luster Ritual,1,$1.52,0,$3.91,0,0,0,0,0,0
+06/05/23,97045F35-31D3B4-EC1F0,ProfessorSteg,Cards,Magic,Alara Reborn,Near Mint,Trace of Abundance,1,$0.53,$0.99,$1.92,$1.34,$0.00,$0.19,$0.04,$0.35,$0.58
+06/05/23,97045F35-31D3B4-EC1F0,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Wolfwillow Haven,1,$0.40,0,0,0,0,0,0,0,0
+06/05/23,97045F35-B21580-E5EBA,ProfessorSteg,Cards,YuGiOh,Structure Deck: Pendulum Domination,Heavily Played 1st Edition,D/D/D Chaos King Apocalypse,1,$0.10,$0.99,$1.09,$0.63,$0.00,$0.11,$0.02,$0.33,$0.46
+06/05/23,97045F35-C70680-1D5FF,ProfessorSteg,Cards,YuGiOh,Pharaonic Guardian,Near Mint Unlimited,Spirit Reaper,1,$2.08,$0.99,$0.00,$0.00,$3.29,$0.29,$0.07,$0.38,$0.00
+06/10/23,97045F35-1A943F-F19A1,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Lightly Played Unlimited,Shard of Greed,2,$0.42,$0.99,$1.83,$1.26,$0.00,$0.18,$0.04,$0.35,$0.57
+06/10/23,97045F35-16A31F-D2E6D,ProfessorSteg,Cards,YuGiOh,Structure Deck: Machine Reactor,Lightly Played Unlimited,Pseudo Space,1,$0.97,$0.99,$1.96,$1.38,$0.00,$0.19,$0.04,$0.35,$0.58
+06/10/23,97045F35-74CB04-BAA03,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Twisted Nightmares,Moderately Played 1st Edition,Dark Mimic LV1,1,$0.62,$0.99,$1.61,$1.08,$0.00,$0.15,$0.04,$0.34,$0.53
+06/10/23,97045F35-C31963-0E385,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Lightly Played Unlimited,Shard of Greed,2,$0.42,$0.99,$1.83,,$0.00,$0.00,$0.00,$0.00,
+06/18/23,97045F35-ACE6BD-CEC7C,ProfessorSteg,Cards,Magic,Core Set 2020,Near Mint,Twinblade Paladin,1,$0.67,$0.99,$1.66,$1.12,$0.00,$0.16,$0.04,$0.34,$0.54
+06/22/23,97045F35-3E8220-AF560,ProfessorSteg,Cards,YuGiOh,Pharaoh's Servant,Near Mint 1st Edition,4-Starred Ladybug of Doom,1,$0.40,$0.00,$6.42,$5.19,$0.00,$0.59,$0.16,$0.48,$1.23
+06/22/23,97045F35-3E8220-AF560,ProfessorSteg,Cards,YuGiOh,Pharaoh's Servant,Near Mint 1st Edition,Insect Barrier,1,$0.59,0,0,0,0,0,0,0,0
+06/22/23,97045F35-3E8220-AF560,ProfessorSteg,Cards,YuGiOh,Pharaoh's Servant,Near Mint 1st Edition,Limiter Removal,1,$5.43,0,0,0,0,0,0,0,0
+06/27/23,97045F35-39724A-DB642,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Lightly Played Unlimited,Summoned Skull,1,$0.52,$0.99,$1.51,$0.99,$0.00,$0.15,$0.03,$0.34,$0.52
+06/29/23,97045F35-347D7D-1BA50,ProfessorSteg,Cards,Magic,Ikoria: Lair of Behemoths,Lightly Played,Drannith Magistrate,1,$12.03,$0.00,$12.03,$10.00,$0.00,$1.11,$0.30,$0.62,$2.03
+07/05/23,97045F35-5A31CF-C12BC,ProfessorSteg,Cards,Magic,Timeshifted,Near Mint,Whispers of the Muse,1,$0.25,$0.99,$1.24,$0.76,$0.00,$0.12,$0.03,$0.33,$0.48
+07/14/23,97045F35-6FF27F-D35AC,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Gaze of Granite,1,$0.23,$0.99,$1.22,$0.74,$0.00,$0.12,$0.03,$0.33,$0.48
+07/18/23,97045F35-AF46CD-4791F,ProfessorSteg,Cards,Magic,8th Edition,Near Mint,Mogg Sentry,1,$0.16,$0.99,$1.15,$0.68,$0.00,$0.12,$0.02,$0.33,$0.47
+07/20/23,97045F35-EF34F9-F03FC,ProfessorSteg,Cards,YuGiOh,Structure Deck: Pendulum Domination,Heavily Played 1st Edition,D/D Proud Ogre,1,$0.15,$0.99,$1.14,$0.67,$0.00,$0.12,$0.02,$0.33,$0.47
+07/22/23,97045F35-2752E1-787A3,ProfessorSteg,Cards,Magic,Eldritch Moon,Near Mint,Cryptolith Fragment,1,$0.43,$0.99,$1.42,$0.91,$0.00,$0.14,$0.03,$0.34,$0.51
+07/23/23,97045F35-4CCD7A-BF8CB,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Thelonite Hermit,1,$0.17,$0.99,$1.16,$0.69,$0.00,$0.12,$0.02,$0.33,$0.47
+07/24/23,97045F35-4C579B-5003F,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Shadowspear,1,$14.09,$0.00,$14.09,$11.75,$0.00,$1.31,$0.35,$0.68,$2.34
+07/24/23,97045F35-DC94A5-AA8A3,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Skittering Invasion,1,$1.29,$0.99,$2.28,$1.65,$0.00,$0.22,$0.05,$0.36,$0.63
+07/24/23,97045F35-E0CB00-78E77,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Skittering Invasion,1,$1.29,$0.99,$2.28,$1.65,$0.00,$0.22,$0.05,$0.36,$0.63
+07/27/23,97045F35-598DFF-DD3AF,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Virulent Sliver,1,$0.87,$0.99,$1.86,$1.29,$0.00,$0.18,$0.04,$0.35,$0.57
+07/28/23,97045F35-84A548-D69C9,ProfessorSteg,Cards,YuGiOh,Structure Deck: Warrior's Triumph,Moderately Played 1st Edition,Giant Trunade,1,$0.40,$0.99,$1.39,,$0.00,$0.00,$0.00,$0.00,
+07/28/23,97045F35-069AEF-7479D,ProfessorSteg,Cards,YuGiOh,Structure Deck: Warrior's Triumph,Moderately Played 1st Edition,Giant Trunade,1,$0.40,$0.99,$1.39,,$0.00,$0.00,$0.00,$0.00,
+07/28/23,97045F35-A82BDC-3C908,ProfessorSteg,Cards,YuGiOh,Structure Deck: Warrior's Triumph,Moderately Played 1st Edition,Giant Trunade,1,$0.40,$0.99,$1.39,,$0.00,$0.00,$0.00,$0.00,
+07/29/23,97045F35-9EA2F6-7AE3E,ProfessorSteg,Cards,YuGiOh,Structure Deck: Warrior's Triumph,Moderately Played 1st Edition,Giant Trunade,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+07/29/23,97045F35-AE7037-B7091,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Ancient Ziggurat,1,$2.31,$0.99,$3.30,$2.52,$0.00,$0.31,$0.08,$0.39,$0.78
+07/31/23,97045F35-50DC96-49C6C,ProfessorSteg,Cards,YuGiOh,Duelist Pack: Kaiba,Lightly Played Unlimited,Ring of Defense,1,$0.40,$0.00,0,$4.32,$0.00,$0.50,$0.14,$0.45,$1.09
+07/31/23,97045F35-50DC96-49C6C,ProfessorSteg,Cards,YuGiOh,Duelist Pack: Yugi,Lightly Played Unlimited,Exchange,1,$0.40,0,0,0,0,0,0,0,0
+07/31/23,97045F35-50DC96-49C6C,ProfessorSteg,Cards,YuGiOh,Duelist Pack: Yugi,Lightly Played Unlimited,Spellbinding Circle,1,$1.46,0,0,0,0,0,0,0,0
+07/31/23,97045F35-50DC96-49C6C,ProfessorSteg,Cards,YuGiOh,Legendary Decks II,Lightly Played 1st Edition,Magical Hats,1,$1.26,0,0,0,0,0,0,0,0
+07/31/23,97045F35-50DC96-49C6C,ProfessorSteg,Cards,YuGiOh,Speed Duel Decks: Twisted Nightmares,Moderately Played 1st Edition,Coffin Seller,1,$0.49,0,$5.41,0,0,0,0,0,0
+07/31/23,97045F35-50DC96-49C6C,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba Reloaded,Lightly Played Unlimited,Vorse Raider,1,$0.40,0,0,0,0,0,0,0,0
+07/31/23,97045F35-50DC96-49C6C,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba Reloaded,Moderately Played Unlimited,Shadow Spell,1,$0.20,0,0,0,0,0,0,0,0
+07/31/23,97045F35-50DC96-49C6C,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Lightly Played Unlimited,Dark Hole,1,$0.40,0,0,0,0,0,0,0,0
+07/31/23,97045F35-50DC96-49C6C,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Lightly Played Unlimited,Gemini Elf,1,$0.40,0,0,0,0,0,0,0,0
+08/06/23,97045F35-A1BE63-77BDD,ProfessorSteg,Cards,Magic,Core Set 2021,Near Mint,Waker of Waves,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+08/10/23,97045F35-A6A35C-B6A1E,ProfessorSteg,Cards,Pokemon,Jungle,Lightly Played 1st Edition,Bellsprout,4,$0.54,$0.00,$11.30,$9.37,$0.00,$1.05,$0.28,$0.60,$1.93
+08/10/23,97045F35-A6A35C-B6A1E,ProfessorSteg,Cards,Pokemon,Jungle,Lightly Played 1st Edition,Exeggcute,2,$0.59,0,0,0,0,0,0,0,0
+08/10/23,97045F35-A6A35C-B6A1E,ProfessorSteg,Cards,Pokemon,Jungle,Lightly Played 1st Edition,Goldeen,6,$0.67,0,0,0,0,0,0,0,0
+08/10/23,97045F35-A6A35C-B6A1E,ProfessorSteg,Cards,Pokemon,Jungle,Lightly Played 1st Edition,Spearow,4,$0.70,0,0,0,0,0,0,0,0
+08/10/23,97045F35-A6A35C-B6A1E,ProfessorSteg,Cards,Pokemon,Jungle,Lightly Played 1st Edition,Venonat,2,$0.57,0,0,0,0,0,0,0,0
+08/12/23,97045F35-A7F77B-751B4,ProfessorSteg,Cards,Magic,Urza's Destiny,Near Mint,Elvish Piper,1,$8.14,$0.00,$8.14,$6.68,$0.00,$0.76,$0.20,$0.50,$1.46
+08/18/23,97045F35-69A824-DE46C,ProfessorSteg,Cards,Magic,Mirage,Lightly Played,Final Fortune,1,$18.38,$0.00,$18.38,$15.42,$0.00,$1.70,$0.46,$0.80,$2.96
+08/22/23,97045F35-23AA70-EB650,ProfessorSteg,Cards,Magic,Scars of Mirrodin,Near Mint Foil,Contagion Engine,1,$24.95,$0.00,$24.95,$21.06,$0.00,$2.31,$0.62,$0.96,$3.89
+08/23/23,97045F35-DEB5E6-24924,ProfessorSteg,Cards,YuGiOh,Magician's Force,Near Mint Unlimited,My Body as a Shield,1,$0.58,$0.99,$0.00,$0.00,$1.61,$0.16,$0.03,$0.34,$0.00
+08/27/23,97045F35-40048D-603E1,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Homing Sliver,1,$1.34,$0.99,$2.33,$1.69,$0.00,$0.23,$0.05,$0.36,$0.64
+08/31/23,97045F35-7C5FDF-584A2,ProfessorSteg,Cards,Magic,Commander: Streets of New Capenna,Near Mint,Oblivion Stone,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+09/05/23,97045F35-761CEF-CBE7D,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Lightly Played Unlimited,Magic Cylinder,1,$0.57,$0.99,$1.56,$1.03,$0.00,$0.16,$0.03,$0.34,$0.53
+09/06/23,97045F35-E980C3-0F4F5,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Twincast,1,$4.41,$0.00,0,$6.73,$0.00,$0.76,$0.21,$0.52,$1.49
+09/06/23,97045F35-E980C3-0F4F5,ProfessorSteg,Cards,Magic,Amonkhet,Near Mint,By Force,1,$0.59,0,0,0,0,0,0,0,0
+09/06/23,97045F35-E980C3-0F4F5,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Kilnmouth Dragon,1,$0.55,0,0,0,0,0,0,0,0
+09/06/23,97045F35-E980C3-0F4F5,ProfessorSteg,Cards,Magic,Battle for Zendikar,Near Mint,Spawning Bed,1,$0.40,0,0,0,0,0,0,0,0
+09/06/23,97045F35-E980C3-0F4F5,ProfessorSteg,Cards,Magic,Mirrodin Besieged,Near Mint,Cryptoplasm,1,$0.67,0,0,0,0,0,0,0,0
+09/06/23,97045F35-E980C3-0F4F5,ProfessorSteg,Cards,Magic,Shadowmoor,Near Mint,Dream Salvage,1,$0.40,0,0,0,0,0,0,0,0
+09/06/23,97045F35-E980C3-0F4F5,ProfessorSteg,Cards,Magic,Shards of Alara,Near Mint,Swerve,1,$0.40,0,0,0,0,0,0,0,0
+09/06/23,97045F35-E980C3-0F4F5,ProfessorSteg,Cards,Magic,Urza's Destiny,Near Mint,Aether Sting,2,$0.40,0,$8.22,0,0,0,0,0,0
+09/07/23,97045F35-F82F0D-3C737,ProfessorSteg,Cards,Pokemon,WoTC Promo,Near Mint Holofoil,Meowth,1,$14.14,$0.00,$0.00,$0.00,$15.02,$1.31,$0.35,$0.68,$0.00
+09/08/23,97045F35-92A8EA-435F1,ProfessorSteg,Cards,Magic,Morningtide,Near Mint,Oona's Blackguard,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+09/10/23,97045F35-709555-E7D95,ProfessorSteg,Cards,Magic,Alara Reborn,Near Mint,Flurry of Wings,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+09/10/23,97045F35-718504-D8E99,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint Foil,Island,1,$1.49,$0.99,$2.48,$1.81,$0.00,$0.24,$0.06,$0.37,$0.67
+09/15/23,97045F35-0A04D4-C5BF6,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Sign in Blood,2,$0.40,$0.99,$1.79,$1.23,$0.00,$0.17,$0.04,$0.35,$0.56
+09/15/23,97045F35-A55F3F-BA38A,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Sign in Blood,2,$0.40,$0.99,$1.79,,$0.00,$0.00,$0.00,$0.00,
+09/15/23,97045F35-F4B275-4EB70,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Sign in Blood,2,$0.40,$0.99,$1.79,,$0.00,$0.00,$0.00,$0.00,
+09/18/23,97045F35-A30520-17356,ProfessorSteg,Cards,Magic,Art Series: Kamigawa: Neon Dynasty,Near Mint,Plains (294) Art Card (80/81),1,$0.46,$0.99,$0.00,$0.00,$1.48,$0.14,$0.03,$0.34,$0.00
+09/24/23,97045F35-D9D133-FCADD,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,"Lier, Disciple of the Drowned",1,$6.77,$0.00,$6.77,$5.49,$0.00,$0.63,$0.17,$0.48,$1.28
+10/01/23,97045F35-70CC83-07B20,ProfessorSteg,Cards,Magic,Invasion,Near Mint,Harrow,1,$0.52,$0.99,$1.51,$0.99,$0.00,$0.15,$0.03,$0.34,$0.52
+10/02/23,97045F35-929485-4261C,ProfessorSteg,Cards,Magic,Eternal Masters,Near Mint,Benevolent Bodyguard,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+10/03/23,97045F35-2793D9-AFEDF,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Island,5,$1.51,$0.00,$7.55,$6.16,$0.00,$0.70,$0.19,$0.50,$1.39
+10/04/23,97045F35-B152E8-90152,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Battle Cry Goblin,2,$0.40,$0.99,$1.79,$1.23,$0.00,$0.17,$0.04,$0.35,$0.56
+10/08/23,97045F35-AD8E18-C0629,ProfessorSteg,Cards,Magic,Rise of the Eldrazi,Near Mint,Stalwart Shield-Bearers,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+10/08/23,97045F35-EE4F2B-4C696,ProfessorSteg,Cards,YuGiOh,Magician's Force,Lightly Played Unlimited,Y-Dragon Head,1,$1.14,$0.99,$2.13,$1.52,$0.00,$0.20,$0.05,$0.36,$0.61
+10/11/23,97045F35-40A630-B1B8D,ProfessorSteg,Cards,Magic,Planeshift,Lightly Played,Orim's Chant,1,$13.43,$0.00,$13.43,$11.19,$0.00,$1.24,$0.34,$0.66,$2.24
+10/25/23,97045F35-762983-FA173,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Treetop Village,2,$0.52,$0.99,$2.03,$1.43,$0.00,$0.19,$0.05,$0.36,$0.60
+10/31/23,97045F35-8861FE-94DAC,ProfessorSteg,Cards,Magic,Dissension,Near Mint,Pain Magnification,1,$0.85,$0.99,$1.84,$1.27,$0.00,$0.18,$0.04,$0.35,$0.57
+11/06/23,97045F35-BDAFC3-42F27,ProfessorSteg,Cards,YuGiOh,Collector's Boxes,Moderately Played Limited,Dark Magician,1,$1.49,$0.99,$2.48,,$2.63,$0.00,$0.00,$0.00,
+12/05/23,97045F35-644D05-4E272,ProfessorSteg,Cards,Magic,Fifth Dawn,Near Mint,Vedalken Shackles,1,$4.52,$0.99,$5.51,$4.41,$0.00,$0.52,$0.13,$0.45,$1.10
+12/11/23,97045F35-84FAB9-33FE4,ProfessorSteg,Cards,Magic,Dissension,Near Mint,Palliation Accord,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+12/19/23,97045F35-CEFF56-EC5F3,ProfessorSteg,Cards,Magic,Archenemy,Moderately Played,Two-Headed Dragon,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+12/20/23,97045F35-A60CFB-4CBBA,ProfessorSteg,Cards,Magic,Worldwake,Near Mint,Canopy Cover,1,$1.12,$0.99,$2.11,$1.50,$0.00,$0.20,$0.05,$0.36,$0.61
+12/22/23,97045F35-864300-00390,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint,Colossal Skyturtle,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+01/02/24,97045F35-2D5F58-67A82,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,"Ryusei, the Falling Star",1,$0.71,$0.99,$1.70,$1.15,$0.00,$0.16,$0.04,$0.35,$0.55
+01/02/24,97045F35-09872B-2DED2,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Erebos's Intervention,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+01/06/24,97045F35-068E30-48254,ProfessorSteg,Cards,Magic,Dark Ascension,Lightly Played,Chalice of Life,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+01/08/24,97045F35-A03C68-A9FCD,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Lunarch Veteran,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+01/14/24,97045F35-C9AA04-C2784,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Zombify,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Battle for Zendikar,Near Mint,Tunneling Geopede,1,$0.40,$0.00,0,$4.51,$0.00,$0.52,$0.14,$0.45,$1.11
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Commander 2015,Near Mint,Korozda Guildmage,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Commander: Kaldheim,Near Mint,Eyeblight Massacre,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Commander: Kaldheim,Near Mint,Golgari Findbroker,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Commander: Kaldheim,Near Mint,Lys Alana Scarblade,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Commander: Kaldheim,Near Mint,Prowess of the Fair,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Commander: Kaldheim,Near Mint,Timberwatch Elf,1,$0.42,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Commander: Kaldheim,Near Mint,Twinblade Assassins,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Dark Ascension,Lightly Played,Mystic Retrieval,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Eternal Masters,Near Mint,Elvish Vanguard,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Eternal Masters,Near Mint,Eyeblight's Ending,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Elderfang Disciple,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Elderfang Ritualist,1,$0.40,0,0,0,0,0,0,0,0
+01/19/24,97045F35-854445-51925,ProfessorSteg,Cards,Magic,Return to Ravnica,Near Mint,Blustersquall,1,$0.40,0,$5.62,0,0,0,0,0,0
+01/23/24,97045F35-96FA37-949FF,ProfessorSteg,Cards,Magic,Zendikar Rising,Near Mint,Marauding Blight-Priest,4,$0.40,$0.99,$2.59,$1.91,$0.00,$0.25,$0.06,$0.37,$0.68
+02/14/24,97045F35-472074-260CC,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Incremental Blight,1,$0.40,$0.99,$1.39,$0.88,$0.00,$0.14,$0.03,$0.34,$0.51
+02/16/24,97045F35-97B4FC-7ABCC,ProfessorSteg,Cards,Magic,Commander: Kaldheim,Near Mint,Moldervine Reclamation,1,$0.45,$0.99,$1.44,$0.93,$0.00,$0.14,$0.03,$0.34,$0.51
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,10th Edition,Near Mint,Overrun,1,$0.40,$0.00,0,$4.25,$0.00,$0.49,$0.13,$0.44,$1.06
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,Dissension,Near Mint,Plaxcaster Frogling,1,$0.40,0,0,0,0,0,0,0,0
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Forgotten Ancient,1,$0.49,0,0,0,0,0,0,0,0
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Armor Sliver,1,$0.40,0,$5.31,0,0,0,0,0,0
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Fury Sliver,1,$0.61,0,0,0,0,0,0,0,0
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Gemhide Sliver,1,$0.98,0,0,0,0,0,0,0,0
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Might Sliver,1,$0.83,0,0,0,0,0,0,0,0
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Spectral Sliver,1,$0.40,0,0,0,0,0,0,0,0
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Temple of Abandon,1,$0.40,0,0,0,0,0,0,0,0
+03/17/24,97045F35-15CD31-77EBA,ProfessorSteg,Cards,Magic,Worldwake,Near Mint,Loam Lion,1,$0.40,0,0,0,0,0,0,0,0
+03/24/24,97045F35-581460-8D7DA,ProfessorSteg,Cards,Magic,Revised Edition,Near Mint,Llanowar Elves,1,$0.40,$1.22,$1.62,$1.09,$0.00,$0.15,$0.04,$0.34,$0.53
+03/24/24,97045F35-EA4E18-97DEE,ProfessorSteg,Cards,Magic,Zendikar,Near Mint,Vines of Vastwood,1,$0.96,$1.22,$2.18,$1.57,$0.00,$0.20,$0.05,$0.36,$0.61
+03/26/24,97045F35-9BA95B-0337B,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Browbeat,1,$0.40,$1.22,$1.62,$1.09,$0.00,$0.15,$0.04,$0.34,$0.53
+03/27/24,97045F35-354EB5-D2F79,ProfessorSteg,Cards,Pokemon,Jungle,Lightly Played 1st Edition,Meowth,1,$0.83,$0.00,$5.21,$4.16,$0.00,$0.48,$0.13,$0.44,$1.05
+03/27/24,97045F35-354EB5-D2F79,ProfessorSteg,Cards,Pokemon,Jungle,Lightly Played 1st Edition,Tauros,3,$1.46,0,0,0,0,0,0,0,0
+04/03/24,97045F35-1C4FAB-D5B39,ProfessorSteg,Cards,Magic,Conflux,Near Mint,Shard Convergence,1,$0.43,$1.22,$0.00,$0.00,$1.78,$0.15,$0.04,$0.34,$0.00
+04/04/24,97045F35-153F2A-D298E,ProfessorSteg,Cards,Pokemon,WoTC Promo,Near Mint,Pikachu (1),1,$8.45,$0.00,$8.45,$6.94,$0.00,$0.78,$0.21,$0.52,$1.51
+04/09/24,97045F35-438F61-F892F,ProfessorSteg,Cards,Pokemon,Base Set,Lightly Played,PlusPower,1,$0.31,$1.22,$1.53,$1.01,$0.00,$0.14,$0.04,$0.34,$0.52
+04/20/24,97045F35-7034DB-99124,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Thelon of Havenwood,1,$0.40,$1.22,$1.62,$1.09,$0.00,$0.15,$0.04,$0.34,$0.53
+04/29/24,97045F35-C4B89A-BDBFB,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Treasure Chest,1,$0.40,$1.22,$1.62,$1.09,$0.00,$0.15,$0.04,$0.34,$0.53
+05/04/24,97045F35-E14E63-3049A,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Fabricate,1,$6.84,$0.00,$6.84,$5.56,$0.00,$0.63,$0.17,$0.48,$1.28
+05/11/24,97045F35-E60A06-77B40,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Flameblast Dragon,1,$0.40,$1.22,$0.00,$0.00,$1.65,$0.15,$0.04,$0.34,$0.00
+05/28/24,97045F35-72F9E0-2A285,ProfessorSteg,Cards,Pokemon,Jungle,Lightly Played 1st Edition,Weepinbell,1,$1.18,$1.22,$2.40,$1.76,$0.00,$0.22,$0.06,$0.36,$0.64
+06/02/24,97045F35-73783E-2AB84,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Fallen Ideal,1,$0.40,$1.22,$1.62,$1.09,$0.00,$0.15,$0.04,$0.34,$0.53
+06/27/24,97045F35-FEDA6A-F8B3A,ProfessorSteg,Cards,Magic,Magic Origins,Near Mint,Fiery Impulse,1,$0.40,$1.22,$0.00,$0.00,$1.65,$0.15,$0.04,$0.34,$0.00
+07/02/24,97045F35-6F879B-3E567,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Forest,2,$1.17,$1.22,$3.56,$2.75,$0.00,$0.32,$0.09,$0.40,$0.81
+07/10/24,97045F35-311D16-9A910,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Tribal Unity,1,$0.48,$1.22,$1.70,$1.16,$0.00,$0.16,$0.04,$0.34,$0.54
+07/13/24,97045F35-F9AAB4-FFC43,ProfessorSteg,Cards,Magic,Magic 2013 (M13),Near Mint,Ring of Evos Isle,1,$0.40,$1.22,$1.62,$1.09,$0.00,$0.15,$0.04,$0.34,$0.53
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Adventures in the Forgotten Realms,Near Mint,Lightfoot Rogue,1,$0.40,$0.00,0,$4.15,$0.00,$0.48,$0.13,$0.44,$1.05
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Aether Revolt,Near Mint,Gonti's Machinations,1,$0.40,0,0,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Amonkhet,Near Mint,Trespasser's Curse,1,$0.40,0,0,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Commander Legends,Near Mint,Ivy Lane Denizen,1,$0.40,0,0,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Dragon's Maze,Near Mint,Tithe Drinker,1,$0.40,0,0,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Kaldheim,Near Mint,Goldvein Pick,1,$0.40,0,0,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Kamigawa: Neon Dynasty,Near Mint Foil,The Long Reach of Night,1,$0.40,0,0,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Magic 2013 (M13),Near Mint,Ring of Evos Isle,1,$0.40,0,0,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Breathless Knight,1,$0.40,0,$5.20,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Sojourner's Companion,1,$0.40,0,0,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Modern Horizons 2,Near Mint,Thraben Watcher,1,$0.40,0,0,0,0,0,0,0,0
+07/23/24,97045F35-2E5330-C2232,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,Cling to Dust,2,$0.40,0,0,0,0,0,0,0,0
+07/26/24,97045F35-C9C379-5F0C0,ProfessorSteg,Cards,Magic,Time Spiral,Near Mint,Outrider en-Kor,1,$0.40,$1.27,$1.67,,$1.83,$0.00,$0.00,$0.00,
+08/03/24,97045F35-747455-8D7AD,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Dragonspeaker Shaman,1,$2.04,$1.27,$1.27,$0.79,$2.24,$0.31,$0.08,$0.39,$0.48
+08/09/24,97045F35-F472E5-60997,ProfessorSteg,Cards,Magic,Time Spiral: Remastered,Near Mint,Stronghold Rats,1,$0.42,$1.27,$1.69,$1.14,$0.00,$0.16,$0.04,$0.35,$0.55
+08/16/24,97045F35-215012-9B5E0,ProfessorSteg,Cards,Magic,Universes Beyond: The Lord of the Rings: Tales of Middle-earth,Near Mint,Glamdring (Borderless Poster),1,$12.00,$0.00,$0.00,$0.00,$45.47,$3.89,$1.05,$1.44,$0.00
+08/16/24,97045F35-215012-9B5E0,ProfessorSteg,Cards,Magic,Universes Beyond: The Lord of the Rings: Tales of Middle-earth,Near Mint Foil,Glamdring (Borderless Poster),1,$30.00,0,0,0,0,0,0,0,0
+08/17/24,97045F35-1EAC3C-513B7,ProfessorSteg,Cards,Magic,Battle for Zendikar,Near Mint,Forerunner of Slaughter,1,$0.40,$1.27,$1.67,$1.12,$0.00,$0.16,$0.04,$0.35,$0.55
+08/17/24,97045F35-09A6FB-9C492,ProfessorSteg,Cards,Pokemon,Base Set,Lightly Played,Starmie,1,$0.40,$1.27,$1.67,$1.13,$0.00,$0.16,$0.04,$0.34,$0.54
+08/25/24,97045F35-009A5D-6B5F6,ProfessorSteg,Cards,Magic,Alpha Edition,Lightly Played,Circle of Protection: Green,1,$14.28,$0.00,$14.28,$11.91,$0.00,$1.32,$0.36,$0.69,$2.37
+09/21/24,97045F35-611F85-CAF54,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Imperial Hellkite,1,$0.40,$1.27,$2.14,$1.53,$0.00,$0.20,$0.05,$0.36,$0.61
+09/21/24,97045F35-611F85-CAF54,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Vampiric Dragon,1,$0.47,0,0,0,0,0,0,0,0
+09/26/24,97045F35-0FA862-86625,ProfessorSteg,Cards,Magic,Magic 2010 (M10),Near Mint,Telepathy,1,$0.40,$1.27,$1.67,$1.13,$0.00,$0.16,$0.04,$0.34,$0.54
+10/08/24,97045F35-ACCD0C-90177,ProfessorSteg,Cards,Magic,Shadowmoor,Near Mint,Raking Canopy,1,$0.40,$1.27,$1.67,$1.13,$0.00,$0.16,$0.04,$0.34,$0.54
+10/25/24,97045F35-7BE6EF-78F26,ProfessorSteg,Cards,YuGiOh,Collector's Boxes,Moderately Played Limited,Dark Magician,1,$1.49,$1.27,0,$3.06,$0.00,$0.36,$0.10,$0.40,$0.86
+10/25/24,97045F35-7BE6EF-78F26,ProfessorSteg,Cards,YuGiOh,Starter Deck: Kaiba Reloaded,Lightly Played Unlimited,Blue-Eyes White Dragon,1,$0.72,0,$3.92,0,0,0,0,0,0
+10/25/24,97045F35-7BE6EF-78F26,ProfessorSteg,Cards,YuGiOh,Starter Deck: Yugi Reloaded,Moderately Played Unlimited,Dark Magician,1,$0.44,0,0,0,0,0,0,0,0
+10/27/24,97045F35-8D83BA-56E1D,ProfessorSteg,Cards,Pokemon,Gym Challenge,Near Mint Unlimited,______'s Chansey,1,$43.99,$0.00,$43.99,$37.35,$0.00,$4.07,$1.10,$1.47,$6.64
+11/22/24,97045F35-0C7328-DE68C,ProfessorSteg,Cards,Magic,Premium Deck Series: Slivers,Near Mint Foil,Aphetto Dredging,1,$0.40,$1.27,$1.67,$1.13,$0.00,$0.16,$0.04,$0.34,$0.54
+12/01/24,97045F35-C20A0E-7B501,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Fierce Empath,1,$0.40,$1.27,$1.67,$1.12,$0.00,$0.16,$0.04,$0.35,$0.55
+12/02/24,97045F35-29E9CA-EFC09,ProfessorSteg,Cards,Magic,Commander 2021,Near Mint,Plaxcaster Frogling,1,$0.40,$1.27,$1.67,$1.13,$0.00,$0.16,$0.04,$0.34,$0.54
+12/05/24,97045F35-FCFFF7-69E46,ProfessorSteg,Cards,Magic,Theros Beyond Death,Near Mint,"Erebos, Bleak-Hearted",1,$1.45,$1.27,$2.72,$2.03,$0.00,$0.25,$0.07,$0.37,$0.69
+12/20/24,97045F35-F93F31-6D5D9,ProfessorSteg,Cards,Magic,Urza's Destiny,Near Mint,Elvish Piper,1,$4.68,$1.27,$5.95,$4.79,$0.00,$0.55,$0.15,$0.46,$1.16
+01/25/25,97045F35-F34325-69554,ProfessorSteg,Cards,Magic,Archenemy,Near Mint,Cemetery Reaper,1,$0.86,$1.27,$2.13,$1.52,$0.00,$0.20,$0.05,$0.36,$0.61
+02/09/25,97045F35-671628-8E501,ProfessorSteg,Cards,Magic,Planechase,Near Mint,Mage Slayer,1,$1.29,$1.27,$2.56,$1.89,$0.00,$0.24,$0.06,$0.37,$0.67
+02/09/25,97045F35-C7FF43-30EDA,ProfessorSteg,Cards,Magic,Innistrad: Midnight Hunt,Near Mint,Vampire Socialite,1,$0.40,$1.27,$0.00,$0.00,$1.69,$0.16,$0.04,$0.34,$0.00
