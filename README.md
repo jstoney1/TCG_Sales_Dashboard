@@ -1,8 +1,8 @@
 # 📊 TCG Sales Dashboard
 
-This ongoing project visualizes my personal trading card game (TCG) sales data to identify trends and optimize sales strategies for my hobby business.
+This ongoing project analyzes and visualizes my personal trading card game (TCG) sales data to identify trends and optimize sales strategies for my hobby business.
 
-## 🚀 Features
+## 🚀 Planned Features
 - 📈 Sales trends over time
 - 🏆 Best-selling products analysis
 - 🎮 Revenue breakdown by game
