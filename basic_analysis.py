@@ -20,7 +20,7 @@ expenses_df = pd.read_csv(expenses_url)
 # Clean sales data
 sales_df['Net Sales'] = sales_df['Net Sales'].replace(0, sales_df['Item Unit Price (USD)'] * sales_df['TOTAL PRODUCT COUNT'] + sales_df['Shipping']).fillna(0)
 sales_df['Net Revenue'] = sales_df['Net Revenue'].replace('', sales_df['Item Unit Price (USD)'] * sales_df['TOTAL PRODUCT COUNT'] - sales_df['Total Fees']).fillna(0)
-sales_df['Cost Basis (USD)'] = sales_df['Cost Basis (USD)'].fillna(0.25)  # Default if not added yet
+sales_df['Cost Basis (USD)'] = sales_df['Cost Basis (USD)'].fillna(0.25)
 
 # Clean order data
 order_df = order_df.rename(columns={'Quantity Ordered': 'Quantity', 'Item Price': 'Item Price (USD)'})
@@ -38,7 +38,7 @@ merged_df['Quantity'] = merged_df['Quantity'].fillna(merged_df['TOTAL PRODUCT CO
 merged_df['Item Price (USD)'] = merged_df['Item Price (USD)_order'].fillna(merged_df['Item Unit Price (USD)'])
 merged_df['Shipping'] = merged_df['Shipping Charged'].fillna(merged_df['Shipping'])
 merged_df['Total Fees'] = merged_df['Total Fees_order'].fillna(merged_df['Total Fees_sales'])
-merged_df['Cost Basis (USD)'] = merged_df['Cost Basis (USD)_card'].fillna(merged_df['Cost Basis (USD)'])  # Prefer card data cost
+merged_df['Cost Basis (USD)'] = merged_df['Cost Basis (USD)_card'].fillna(merged_df['Cost Basis (USD)'])
 merged_df['Profit'] = merged_df['Net Revenue'] - (merged_df['Cost Basis (USD)'] * merged_df['Quantity'])
 merged_df['Profit Margin (%)'] = (merged_df['Profit'] / (merged_df['Net Revenue'] + merged_df['Total Fees'])) * 100
 
