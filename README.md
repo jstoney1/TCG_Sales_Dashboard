@@ -28,13 +28,13 @@ Here’s where my data’s at (run `analyze_sales.py` for latest):
 - **Overall Profit Margin:** 23.43%
 
 ### 🏆 Top 5 Sales with Profit
-| Product Name                  | Net Revenue | Cost Basis | Profit | Profit Margin (%) | Date       | Image                                      |
-|-------------------------------|-------------|------------|--------|-------------------|------------|--------------------------------------------|
-| Glamdring (Borderless Poster) | $45.47      | [Insert]   | [Insert] | [Insert]%       | 08/16/24   | ![Glamdring](images/Glamdring_(Borderless_Poster).jpg) |
-| ______'s Chansey              | $37.35      | [Insert]   | [Insert] | [Insert]%       | 10/27/24   |                                            |
-| Sliver Overlord               | $29.29      | [Insert]   | [Insert] | [Insert]%       | 10/27/22   | ![Sliver Overlord](images/Sliver_Overlord.jpg) |
-| Contagion Engine              | $21.06      | [Insert]   | [Insert] | [Insert]%       | 08/22/23   | ![Contagion Engine](images/Contagion_Engine.jpg) |
-| Blue-Eyes White Dragon        | $51.05      | [Insert]   | [Insert] | [Insert]%       | 11/01/22   |                                            |
+| Product Name             | Net Revenue | Cost Basis | Profit  | Profit Margin | Date       | Game    |
+|--------------------------|-------------|------------|---------|---------------|------------|---------|
+| Blue-Eyes White Dragon   | $51.05      | $0.25      | $50.55  | 85.72%        | 11/01/22   | YuGiOh  |
+| Ragavan, Nimble Pilferer | $44.87      | $30.00     | $14.87  | 28.18%        | 05/03/23   | Magic   |
+| ______'s Chansey         | $37.35      | $0.25      | $37.10  | 84.34%        | 10/27/24   | Pokémon |
+| Victreebel (14)          | $37.34      | $0.25      | $37.09  | 84.33%        | 02/14/23   | Pokémon |
+| Sliver Overlord          | $29.29      | $0.25      | $29.04  | 85.46%        | 10/27/22   | Magic   |
 
 ## 🛠 Installation
 1. Clone the repo:  
@@ -55,7 +55,7 @@ Note: Outputs stats and saves Magic card images to images/. Streamlit dashboard 
 Coming Soon: Profit by product line, top sets bar chart.
 
 📝 Notes
-Data Gaps: Some orders missing; cost basis refining with Single Card Data.
+Data Gaps: Some orders missing; cost basis of bulk acquired cards set to $0.25 with Single Card Data.
 Progress: Building toward a fully visual dashboard with card pics!
 
 🚀 Next Steps
