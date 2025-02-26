@@ -17,15 +17,15 @@ This ongoing project analyzes and visualizes my personal trading card game (TCG)
 
 ## 📈 Key Findings
 Here’s where my data’s at (run `analyze_sales.py` for latest):
-- **Total Units Sold:** 449
-- **Gross Sales:** $1,248.62
-- **Net Revenue:** $1,009.64
-- **Total Fees:** $236.79
-- **Total Cost:** [Insert from script]
-- **Total Profit (before expenses):** [Insert]
-- **Total Expenses:** [Insert]
-- **Net Profit:** [Insert]
-- **Overall Profit Margin:** [Insert]%
+- **Total Units Sold:** 1064
+- **Gross Sales:** $1804.84
+- **Net Revenue:** $1343.98
+- **Total Fees:** $385.56
+- **Total Cost:** $424.99
+- **Total Profit (before expenses):** $918.99
+- **Total Expenses:** $513.75
+- **Net Profit:** $405.24
+- **Overall Profit Margin:** 23.43%
 
 ### 🏆 Top 5 Sales with Profit
 | Product Name                  | Net Revenue | Cost Basis | Profit | Profit Margin (%) | Date       | Image                                      |
