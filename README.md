@@ -3,7 +3,7 @@
 This ongoing project analyzes and visualizes my personal trading card game (TCG) sales data to identify trends and optimize strategies for my hobby business. It’s also a portfolio piece showcasing my data skills for entry-level job applications—turning my TCG passion into Python-powered insights!
 
 ## 🚀 Overview
-- **What It Does:** Tracks sales, costs, and profits from my TCGplayer store, with visuals in progress.
+- **What It Does:** Tracks sales, costs, and profits from my TCGplayer store records, with visuals in progress.
 - **Tools:** Python, Pandas, Requests
 - **Skills:** Data merging, profit analysis, API integration
 - **Period:** October 2022 - February 2025 (partial data)
@@ -16,7 +16,7 @@ This ongoing project analyzes and visualizes my personal trading card game (TCG)
   - [Business Expenses](https://raw.githubusercontent.com/jstoney1/TCG_Sales_Dashboard/refs/heads/main/data/TCGPlayer%20Card%20Business%20Spreadsheet%20-%20Business%20Expenses.csv) (14 expenses)
 
 ## 📈 Key Findings
-Here’s where my data’s at (run `analyze_sales.py` for latest):
+Here’s where my data’s at (run `basic_analysis.py` for latest):
 - **Total Units Sold:** 1064
 - **Gross Sales:** $1804.84
 - **Net Revenue:** $1343.98
@@ -43,7 +43,7 @@ Here’s where my data’s at (run `analyze_sales.py` for latest):
 2. Install Dependencies
    pip install pandas requests
 3. Run the Analysis
-   python src/analyze_sales.py
+   python src/basic_analysis.py
 Note: Outputs stats and saves Magic card images to images/. Streamlit dashboard coming soon!
 
 🎮 Planned Features
@@ -55,13 +55,12 @@ Note: Outputs stats and saves Magic card images to images/. Streamlit dashboard 
 Coming Soon: Profit by product line, top sets bar chart.
 
 📝 Notes
-Data Gaps: Some orders missing; cost basis of bulk acquired cards set to $0.25 with Single Card Data.
-Progress: Building toward a fully visual dashboard with card pics!
+- **Merge Mastery:** Linked 901 sales rows to 282 orders via `'Order ID'`, preserving multi-card orders (1,064 units total) while adding shipping and price details.
+- **Cost Basis:** Defaulted bulk cards to $0.25, refined key sales (e.g., Ragavan at $30) with card cost data for accuracy.
 
 🚀 Next Steps
-Add Yu-Gi-Oh! and Pokémon card images (beyond Magic).
-Build an interactive web dashboard with Streamlit.
-Enhance with time-series charts and customer insights.
+Visualize Trends: Plot profit by game (Magic’s $1,363.30 net sales lead) to spotlight top performers.
+Interactive Dashboard: Build a Streamlit app for real-time sales insights—boosting strategy and portfolio flair.
 
 📩 Contact
 Questions or ideas? Reach out on GitHub!
