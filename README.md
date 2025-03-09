@@ -23,7 +23,7 @@ Here’s where my data’s at (run `basic_analysis.py` for latest):
 - **Total Fees:** $385.56
 - **Total Cost:** $424.99
 - **Total Profit (before expenses):** $918.99
-- **Total Expenses:** $513.75
+- **Total Expenses & Reinvestment:** $513.75
 - **Net Profit:** $405.24
 - **Overall Profit Margin:** 23.43%
 
